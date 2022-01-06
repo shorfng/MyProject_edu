@@ -1,0 +1,20 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: edu-config-8090
+  cloud:
+    config:
+      server:
+        git:
+          # 配置 git 服务地址
+          uri: https://gitee.com/shorfng/cloud-config-repo.git
+          # 配置 git 用户名
+          username: shorfng@126.com
+          # 配置 git 密码
+          password: xxxxx
+          search-paths:
+            - cloud-config-repo
+        # 读取 git 分支
+        default-label: main

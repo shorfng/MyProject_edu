@@ -11,6 +11,7 @@
     <modules>
         <module>edu-common</module>
         <module>edu-eureka-8761</module>
+        <module>edu-config-8090</module>
     </modules>
 
     <properties>
