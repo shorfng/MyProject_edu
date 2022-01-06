@@ -10,6 +10,7 @@
 
     <modules>
         <module>edu-common</module>
+        <module>edu-eureka-8761</module>
     </modules>
 
     <properties>
