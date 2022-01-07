@@ -26,13 +26,13 @@ public class PromotionSpaceController {
     @Autowired
     private IPromotionSpaceService promotionSpaceService;
 
-    //http://localhost:8001/ad/space/getAllSpace
+    //http://localhost:8001/ad/space/getAllSpaces
     /**
      * 查询所有广告定位信息列表
      */
-    @GetMapping("/getAllSpace")
+    @GetMapping("/getAllSpaces")
     @ResponseBody
-    public List<PromotionSpace> getAllSpace() {
+    public List<PromotionSpace> getAllSpaces() {
         List<PromotionSpace> spaceList = promotionSpaceService.list();
         return spaceList;
     }
