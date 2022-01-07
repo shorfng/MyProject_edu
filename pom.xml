@@ -14,6 +14,7 @@
         <module>edu-config-8090</module>
         <module>edu-ad-8001</module>
         <module>edu-boss-8082</module>
+        <module>edu-gateway-9001</module>
     </modules>
 
     <properties>
