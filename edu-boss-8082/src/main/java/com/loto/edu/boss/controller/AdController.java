@@ -5,6 +5,7 @@ import com.loto.edu.dto.PromotionSpaceDTO;
 import com.loto.edu.remote.AdRemoteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
@@ -13,7 +14,7 @@ import java.util.List;
  * Author：蓝田_Loto
  * <p>Date：2022-01-07 14:27</p>
  * <p>PageName：AdController.java</p>
- * <p>Function：</p>
+ * <p>Function：广告</p>
  */
 
 @RestController
@@ -22,10 +23,13 @@ public class AdController {
     @Autowired
     private AdRemoteService adRemoteService;
 
-    @RequestMapping("/space/getAllSpaces")
-    public ResponseDTO getAllSpaces(){
-        List<PromotionSpaceDTO> spaceDTOList = adRemoteService.getAllSpaces();
+    /**
+     * 获取所有的广告位及其对应的广告
+     */
+    @RequestMapping("/getAllAdsBySpaceKey")
+    public ResponseDTO getAllAdsBySpaceKey(@RequestParam("spaceKey") String[] spaceKey) {
+        List<PromotionSpaceDTO> spaceDTOList = adRemoteService.getAllAdsBySpaceKey(spaceKey);
+
         return ResponseDTO.success(spaceDTOList);
     }
-
 }

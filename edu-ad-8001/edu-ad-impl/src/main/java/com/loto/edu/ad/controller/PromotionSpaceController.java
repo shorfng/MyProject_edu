@@ -1,6 +1,5 @@
 package com.loto.edu.ad.controller;
 
-
 import com.loto.edu.ad.entity.PromotionSpace;
 import com.loto.edu.ad.service.IPromotionSpaceService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,12 +20,12 @@ import java.util.List;
  * @since 2022-01-07
  */
 @RestController
-@RequestMapping("/ad/space")
+@RequestMapping("/adSpace")
 public class PromotionSpaceController {
     @Autowired
     private IPromotionSpaceService promotionSpaceService;
 
-    //http://localhost:8001/ad/space/getAllSpaces
+    //http://localhost:8001/adSpace/getAllSpaces
     /**
      * 查询所有广告定位信息列表
      */

@@ -1,12 +1,9 @@
 package com.loto.edu.front.controller;
 
 import com.loto.edu.common.result.ResponseDTO;
-import com.loto.edu.common.result.ResultCode;
 import com.loto.edu.dto.PromotionSpaceDTO;
 import com.loto.edu.remote.AdRemoteService;
-import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
