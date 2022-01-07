@@ -134,4 +134,33 @@ public class AdRemoteServiceImpl implements AdRemoteService {
         return ConvertUtils.convertList(adList, PromotionAdDTO.class);
     }
 
+    /**
+     * 新增或者修改广告信息
+     */
+    @PostMapping("/saveOrUpdateAd")
+    public ResponseDTO saveOrUpdateAd(PromotionAdDTO promotionAdDTO) {
+        PromotionAd promotionAd = ConvertUtils.convert(promotionAdDTO, PromotionAd.class);
+
+        // 新增
+        if (promotionAd.getId() == null) {
+            promotionAd.setCreateTime(new Date());
+            promotionAd.setUpdateTime(new Date());
+            promotionAd.setStatus(1);  // 1上架，0下架
+        } else {
+            // 修改
+            promotionAd.setUpdateTime(new Date());
+        }
+
+        ResponseDTO responseDTO = null;
+        try {
+            // 执行SQL
+            promotionAdService.saveOrUpdate(promotionAd);
+            responseDTO = ResponseDTO.success();
+        } catch (Exception e) {
+            responseDTO = ResponseDTO.ofError(e.getMessage());
+        }
+
+        return responseDTO;
+    }
+
 }

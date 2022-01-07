@@ -76,4 +76,12 @@ public class AdController {
 
         return ResponseDTO.success(adDTOList);
     }
+
+    /**
+     * 新增或者修改广告信息
+     */
+    @PostMapping("/saveOrUpdateAd")
+    public ResponseDTO saveOrUpdateAd(@RequestBody PromotionAdDTO promotionAdDTO){
+        return adRemoteService.saveOrUpdateAd(promotionAdDTO);
+    }
 }

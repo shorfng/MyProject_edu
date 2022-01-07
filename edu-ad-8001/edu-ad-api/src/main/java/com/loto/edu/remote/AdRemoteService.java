@@ -5,6 +5,7 @@ import com.loto.edu.dto.PromotionAdDTO;
 import com.loto.edu.dto.PromotionSpaceDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -42,4 +43,10 @@ public interface AdRemoteService {
      */
     @GetMapping("/getAllAds")
     List<PromotionAdDTO> getAllAds();
+
+    /**
+     * 新增或者修改广告信息
+     */
+    @PostMapping("/saveOrUpdateAd")
+    ResponseDTO saveOrUpdateAd(@RequestBody PromotionAdDTO promotionAdDTO);
 }
