@@ -24,6 +24,16 @@ public class AdController {
     private AdRemoteService adRemoteService;
 
     /**
+     * 获取所有广告位
+     */
+    @RequestMapping("/space/getAllSpaces")
+    public ResponseDTO getAllSpaces() {
+        List<PromotionSpaceDTO> allSpacesList = adRemoteService.getAllSpaces();
+
+        return ResponseDTO.success(allSpacesList);
+    }
+
+    /**
      * 获取所有的广告位及其对应的广告
      */
     @RequestMapping("/getAllAdsBySpaceKey")

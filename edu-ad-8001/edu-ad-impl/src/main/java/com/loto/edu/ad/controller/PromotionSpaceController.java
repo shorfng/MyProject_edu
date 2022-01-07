@@ -12,13 +12,12 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * <p>
- * 前端控制器
- * </p>
- *
- * @author 蓝田_Loto
- * @since 2022-01-07
+ * Author：蓝田_Loto
+ * <p>Date：2022-01-07</p>
+ * <p>PageName：PromotionSpaceController.java</p>
+ * <p>Function：广告位</p>
  */
+
 @RestController
 @RequestMapping("/adSpace")
 public class PromotionSpaceController {

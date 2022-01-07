@@ -1,5 +1,6 @@
 package com.loto.edu.ad.remote;
 
+import cn.hutool.core.bean.BeanUtil;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.loto.edu.ad.entity.PromotionAd;
 import com.loto.edu.ad.entity.PromotionSpace;
@@ -26,6 +27,23 @@ public class AdRemoteServiceImpl implements AdRemoteService {
 
     @Autowired
     private IPromotionAdService promotionAdService;
+
+    /**
+     * 获取所有广告位
+     */
+    @RequestMapping("/space/getAllSpaces")
+    public List<PromotionSpaceDTO> getAllSpaces() {
+        List<PromotionSpace> spaces = promotionSpaceService.list();
+        List<PromotionSpaceDTO> spaceDTOS = new ArrayList<>();
+
+        for (PromotionSpace space : spaces) {
+            PromotionSpaceDTO promotionSpaceDTO = new PromotionSpaceDTO();
+            BeanUtil.copyProperties(space, promotionSpaceDTO);
+            spaceDTOS.add(promotionSpaceDTO);
+        }
+
+        return spaceDTOS;
+    }
 
     /**
      * 通过 spaceKey 获取所有的广告信息

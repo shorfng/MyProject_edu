@@ -1,18 +1,16 @@
 package com.loto.edu.ad.controller;
 
-
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * <p>
- *  前端控制器
- * </p>
- *
- * @author 蓝田_Loto
- * @since 2022-01-07
+ * Author：蓝田_Loto
+ * <p>Date：2022-01-07</p>
+ * <p>PageName：PromotionSpaceController.java</p>
+ * <p>Function：广告</p>
  */
+
 @RestController
 @RequestMapping("/ad/promotion-ad")
 public class PromotionAdController {
