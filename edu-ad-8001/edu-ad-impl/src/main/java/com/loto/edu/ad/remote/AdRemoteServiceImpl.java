@@ -125,4 +125,13 @@ public class AdRemoteServiceImpl implements AdRemoteService {
         return spaceDTOList;
     }
 
+    /**
+     * 获取所有广告信息
+     */
+    @GetMapping("/getAllAds")
+    public List<PromotionAdDTO> getAllAds() {
+        List<PromotionAd> adList = promotionAdService.list();
+        return ConvertUtils.convertList(adList, PromotionAdDTO.class);
+    }
+
 }

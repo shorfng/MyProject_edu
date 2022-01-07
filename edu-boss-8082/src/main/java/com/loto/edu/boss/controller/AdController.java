@@ -2,6 +2,7 @@ package com.loto.edu.boss.controller;
 
 import com.loto.edu.common.result.ResponseDTO;
 import com.loto.edu.common.result.ResultCode;
+import com.loto.edu.dto.PromotionAdDTO;
 import com.loto.edu.dto.PromotionSpaceDTO;
 import com.loto.edu.remote.AdRemoteService;
 import io.swagger.annotations.ApiOperation;
@@ -42,7 +43,7 @@ public class AdController {
      * 新增或者修改广告位信息
      */
     @PostMapping("/space/saveOrUpdateSpace")
-    public ResponseDTO saveOrUpdateSpace(@RequestBody PromotionSpaceDTO promotionSpaceDTO){
+    public ResponseDTO saveOrUpdateSpace(@RequestBody PromotionSpaceDTO promotionSpaceDTO) {
         return adRemoteService.saveOrUpdateSpace(promotionSpaceDTO);
     }
 
@@ -50,7 +51,7 @@ public class AdController {
      * 根据 Id 获取广告位信息
      */
     @GetMapping("/space/getSpaceById")
-    public ResponseDTO getSpaceById(@RequestParam("id") Integer id){
+    public ResponseDTO getSpaceById(@RequestParam("id") Integer id) {
         PromotionSpaceDTO promotionSpaceDTO = adRemoteService.getSpaceById(id);
 
         return ResponseDTO.success(promotionSpaceDTO);
@@ -64,5 +65,15 @@ public class AdController {
         List<PromotionSpaceDTO> spaceDTOList = adRemoteService.getAllAdsBySpaceKey(spaceKey);
 
         return ResponseDTO.success(spaceDTOList);
+    }
+
+    /**
+     * 获取所有广告信息
+     */
+    @GetMapping("/getAllAds")
+    public ResponseDTO getAllAds() {
+        List<PromotionAdDTO> adDTOList = adRemoteService.getAllAds();
+
+        return ResponseDTO.success(adDTOList);
     }
 }

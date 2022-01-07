@@ -1,6 +1,7 @@
 package com.loto.edu.remote;
 
 import com.loto.edu.common.result.ResponseDTO;
+import com.loto.edu.dto.PromotionAdDTO;
 import com.loto.edu.dto.PromotionSpaceDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -36,4 +37,9 @@ public interface AdRemoteService {
     @GetMapping("/getAllAdsBySpaceKey")
     List<PromotionSpaceDTO> getAllAdsBySpaceKey(@RequestParam("spaceKey") String[] spaceKey);
 
+    /**
+     * 获取所有广告信息
+     */
+    @GetMapping("/getAllAds")
+    List<PromotionAdDTO> getAllAds();
 }
