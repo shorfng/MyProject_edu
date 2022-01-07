@@ -31,7 +31,7 @@ public class AdRemoteServiceImpl implements AdRemoteService {
     private IPromotionAdService promotionAdService;
 
     /**
-     * 获取所有广告位
+     * 获取所有广告位信息
      */
     @RequestMapping("/space/getAllSpaces")
     public List<PromotionSpaceDTO> getAllSpaces() {
@@ -48,7 +48,7 @@ public class AdRemoteServiceImpl implements AdRemoteService {
     }
 
     /**
-     * 新增或者修改广告位
+     * 新增或者修改广告位信息
      */
     @PostMapping("/space/saveOrUpdateSpace")
     public ResponseDTO saveOrUpdateSpace(PromotionSpaceDTO promotionSpaceDTO) {
@@ -74,6 +74,15 @@ public class AdRemoteServiceImpl implements AdRemoteService {
         }
 
         return responseDTO;
+    }
+
+    /**
+     * 根据 Id 获取广告位信息
+     */
+    @GetMapping("/space/getSpaceById")
+    public PromotionSpaceDTO getSpaceById(Integer id) {
+        PromotionSpace spaceInfo = promotionSpaceService.getById(id);
+        return ConvertUtils.convert(spaceInfo, PromotionSpaceDTO.class);
     }
 
     /**
@@ -115,4 +124,5 @@ public class AdRemoteServiceImpl implements AdRemoteService {
 
         return spaceDTOList;
     }
+
 }

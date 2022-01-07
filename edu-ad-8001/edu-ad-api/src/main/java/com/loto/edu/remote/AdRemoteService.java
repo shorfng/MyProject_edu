@@ -13,16 +13,22 @@ import java.util.List;
 @FeignClient(name = "${remote.feign.edu-ad.name:edu-ad}", path = "/ad")
 public interface AdRemoteService {
     /**
-     * 获取所有广告位
+     * 获取所有广告位信息
      */
     @RequestMapping("/space/getAllSpaces")
     public List<PromotionSpaceDTO> getAllSpaces();
 
     /**
-     * 新增或者修改广告位
+     * 新增或者修改广告位信息
      */
     @GetMapping("/space/saveOrUpdateSpace")
     ResponseDTO saveOrUpdateSpace(@RequestBody PromotionSpaceDTO promotionSpaceDTO);
+
+    /**
+     * 根据 Id 获取广告位信息
+     */
+    @GetMapping("/space/getSpaceById")
+    PromotionSpaceDTO getSpaceById(@RequestParam("id") Integer id);
 
     /**
      * 通过 spaceKey 获取所有的广告信息
