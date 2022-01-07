@@ -20,8 +20,11 @@ public interface AdRemoteService {
     @RequestMapping("/space/getAllSpaces")
     public List<PromotionSpaceDTO> getAllSpaces();
 
-    @GetMapping("/getAllAds")
-    List<PromotionSpaceDTO> getAllAds(@RequestParam("spaceKeys") String[] spaceKeys);
+    /**
+     * 通过 spaceKey 获取所有的广告信息
+     */
+    @GetMapping("/getAllAdsBySpaceKey")
+    List<PromotionSpaceDTO> getAllAdsBySpaceKey(@RequestParam("spaceKey") String[] spaceKey);
 
     //广告位的新增或者修改
     @RequestMapping(value = "/space/saveOrUpdate", method = RequestMethod.POST)

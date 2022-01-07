@@ -1,11 +1,13 @@
 package com.loto.edu.ad.remote;
 
 import cn.hutool.core.bean.BeanUtil;
+import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.loto.edu.ad.entity.PromotionAd;
 import com.loto.edu.ad.entity.PromotionSpace;
 import com.loto.edu.ad.service.IPromotionAdService;
 import com.loto.edu.ad.service.IPromotionSpaceService;
 import com.loto.edu.common.result.ResponseDTO;
+import com.loto.edu.common.util.ConvertUtils;
 import com.loto.edu.dto.PromotionAdDTO;
 import com.loto.edu.dto.PromotionSpaceDTO;
 import com.loto.edu.remote.AdRemoteService;
@@ -15,6 +17,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.security.Key;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -43,6 +46,46 @@ public class AdRemoteServiceImpl implements AdRemoteService {
         }
 
         return spaceDTOS;
+    }
+
+    /**
+     * 通过 spaceKey 获取所有的广告信息
+     */
+    @GetMapping("/getAllAdsBySpaceKey")
+    public List<PromotionSpaceDTO> getAllAdsBySpaceKey(String[] spaceKey) {
+        List<PromotionSpaceDTO> spaceDTOList = new ArrayList<>();
+
+        // 遍历 spaceKeys
+        for (String key : spaceKey) {
+            QueryWrapper<PromotionSpace> spaceQueryWrapper = new QueryWrapper<>();
+            spaceQueryWrapper.eq("spaceKey", key);
+
+            // 根据 spaceKey 获取 PromotionSpace 广告位对象
+            PromotionSpace promotionSpace = promotionSpaceService.getOne(spaceQueryWrapper);
+            if (promotionSpace == null) {
+                continue;
+            }
+
+            // 根据 PromotionSpaceId 获取对应的 PromotionAd 广告信息
+            QueryWrapper<PromotionAd> adQueryWrapper = new QueryWrapper<>();
+            adQueryWrapper.eq("spaceId",promotionSpace.getId());
+            adQueryWrapper.eq("status",1);   // 上架状态
+            Date now = new Date();
+            adQueryWrapper.lt("startTime",now);
+            adQueryWrapper.lt("endTime",now);
+
+            List<PromotionAd> promotionAdList = promotionAdService.list(adQueryWrapper);
+
+            // promotionAdList 转换成 promoteSpaceDTO
+            List<PromotionAdDTO> promotionAdDTOList = ConvertUtils.convertList(promotionAdList, PromotionAdDTO.class);
+            // promotionSpace 转换成 PromotionSpaceDTO
+            PromotionSpaceDTO promotionSpaceDTO = ConvertUtils.convert(promotionSpace, PromotionSpaceDTO.class);
+
+            promotionSpaceDTO.setAdDTOList(promotionAdDTOList);
+            spaceDTOList.add(promotionSpaceDTO);
+        }
+
+        return spaceDTOList;
     }
 
     //广告位的新增或者修改
@@ -150,37 +193,5 @@ public class AdRemoteServiceImpl implements AdRemoteService {
         return responseDTO;
     }
 
-    @GetMapping("/getAllAds")
-    public List<PromotionSpaceDTO> getAllAds(String[] spaceKeys) {
-        List<PromotionSpaceDTO> promotionSpaceDTOList = new ArrayList<>();
 
-        for (String spaceKey : spaceKeys) {
-
-            //根据spaceKey获取PromotionSpace
-            PromotionSpace promotionSpace = promotionSpaceService.getBySpaceKey(spaceKey);
-            if (promotionSpace == null) {
-                continue;
-            }
-            //根据PromotionSpaceId获取对应的PromotionAd
-            List<PromotionAd> promotionAds = promotionAdService.getByPromotionSpaceId(promotionSpace.getId());
-
-
-            PromotionSpaceDTO promotionSpaceDTO = new PromotionSpaceDTO();
-            List<PromotionAdDTO> promotionAdDTOS = new ArrayList<>(promotionAds.size());
-
-            //拷贝promoteSpace对象的属性到promoteSpaceDTO
-            BeanUtil.copyProperties(promotionSpace, promotionSpaceDTO);
-
-            for (PromotionAd promotionAd : promotionAds) {
-                PromotionAdDTO promotionAdDTO = new PromotionAdDTO();
-                BeanUtil.copyProperties(promotionAd, promotionAdDTO);
-                promotionAdDTOS.add(promotionAdDTO);
-            }
-
-            promotionSpaceDTO.setAdDTOList(promotionAdDTOS);
-            promotionSpaceDTOList.add(promotionSpaceDTO);
-        }
-
-        return promotionSpaceDTOList;
-    }
 }
