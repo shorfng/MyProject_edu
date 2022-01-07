@@ -6,12 +6,14 @@ import com.loto.edu.ad.entity.PromotionAd;
 import com.loto.edu.ad.entity.PromotionSpace;
 import com.loto.edu.ad.service.IPromotionAdService;
 import com.loto.edu.ad.service.IPromotionSpaceService;
+import com.loto.edu.common.result.ResponseDTO;
 import com.loto.edu.common.util.ConvertUtils;
 import com.loto.edu.dto.PromotionAdDTO;
 import com.loto.edu.dto.PromotionSpaceDTO;
 import com.loto.edu.remote.AdRemoteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -43,6 +45,35 @@ public class AdRemoteServiceImpl implements AdRemoteService {
         }
 
         return spaceDTOS;
+    }
+
+    /**
+     * 新增或者修改广告位
+     */
+    @PostMapping("/space/saveOrUpdateSpace")
+    public ResponseDTO saveOrUpdateSpace(PromotionSpaceDTO promotionSpaceDTO) {
+        PromotionSpace space = ConvertUtils.convert(promotionSpaceDTO, PromotionSpace.class);
+
+        // 新增
+        if (space.getId() == null) {
+            space.setCreateTime(new Date());
+            space.setUpdateTime(new Date());
+            space.setIsDel(0);
+        } else {
+            // 修改
+            space.setUpdateTime(new Date());
+        }
+
+        ResponseDTO responseDTO = null;
+        try {
+            // 执行SQL
+            promotionSpaceService.saveOrUpdate(space);
+            responseDTO = ResponseDTO.success();
+        } catch (Exception e) {
+            responseDTO = ResponseDTO.ofError(e.getMessage());
+        }
+
+        return responseDTO;
     }
 
     /**

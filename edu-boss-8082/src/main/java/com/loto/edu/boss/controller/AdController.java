@@ -3,7 +3,10 @@ package com.loto.edu.boss.controller;
 import com.loto.edu.common.result.ResponseDTO;
 import com.loto.edu.dto.PromotionSpaceDTO;
 import com.loto.edu.remote.AdRemoteService;
+import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -31,6 +34,14 @@ public class AdController {
         List<PromotionSpaceDTO> allSpacesList = adRemoteService.getAllSpaces();
 
         return ResponseDTO.success(allSpacesList);
+    }
+
+    /**
+     * 新增或者修改广告位
+     */
+    @PostMapping("/space/saveOrUpdateSpace")
+    public ResponseDTO saveOrUpdateSpace(@RequestBody PromotionSpaceDTO promotionSpaceDTO){
+        return adRemoteService.saveOrUpdateSpace(promotionSpaceDTO);
     }
 
     /**
