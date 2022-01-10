@@ -163,4 +163,12 @@ public class AdRemoteServiceImpl implements AdRemoteService {
         return responseDTO;
     }
 
+    /**
+     * 根据 Id获取广告信息
+     */
+    @GetMapping("/getAdById")
+    public PromotionAdDTO getAdById(Integer id) {
+        PromotionAd adInfo = promotionAdService.getById(id);
+        return ConvertUtils.convert(adInfo, PromotionAdDTO.class);
+    }
 }

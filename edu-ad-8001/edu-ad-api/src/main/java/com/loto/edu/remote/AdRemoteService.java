@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
@@ -49,4 +50,10 @@ public interface AdRemoteService {
      */
     @PostMapping("/saveOrUpdateAd")
     ResponseDTO saveOrUpdateAd(@RequestBody PromotionAdDTO promotionAdDTO);
+
+    /**
+     * 根据 Id获取广告信息
+     */
+    @GetMapping("/getAdById")
+    PromotionAdDTO getAdById(@RequestParam("id") Integer id);
 }

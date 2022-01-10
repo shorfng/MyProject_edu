@@ -81,7 +81,17 @@ public class AdController {
      * 新增或者修改广告信息
      */
     @PostMapping("/saveOrUpdateAd")
-    public ResponseDTO saveOrUpdateAd(@RequestBody PromotionAdDTO promotionAdDTO){
+    public ResponseDTO saveOrUpdateAd(@RequestBody PromotionAdDTO promotionAdDTO) {
         return adRemoteService.saveOrUpdateAd(promotionAdDTO);
     }
+
+    /**
+     * 根据 Id获取广告信息
+     */
+    @GetMapping("/getAdById")
+    public ResponseDTO getAdById(@RequestParam("id") Integer id) {
+        PromotionAdDTO promotionAdDTO = adRemoteService.getAdById(id);
+        return ResponseDTO.success(promotionAdDTO);
+    }
+
 }
