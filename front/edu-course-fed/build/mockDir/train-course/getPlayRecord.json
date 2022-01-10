@@ -1,0 +1,9 @@
+{
+  "content": {
+    "lessonId": 0,
+    "playNode": 300
+  },
+  "message": "string",
+  "state": 1,
+  "uiMessage": "string"
+}

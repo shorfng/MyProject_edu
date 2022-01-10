@@ -1,0 +1,25 @@
+{
+  "state": 1,
+  "message": null,
+  "content": [
+    {
+      "updateProgress": "共12讲 / 已更新至第2讲",
+      "updateTips": "3更新",
+      "lessonUpdateNum": 3,
+      "id": 107,
+      "name": "《32个Java面试必考点-复制新课内容》",
+      "lastLearnLessonName": "未开始学习",
+      "image": "http://www.lgstatic.com/i/audio1/M00/06/6B/CgHIk111_jOABsC_AAF8gpDF-74571.png"
+    },
+    {
+      "updateProgress": "共12讲 / 已更新至第2讲",
+      "updateTips": "3更新",
+      "lessonUpdateNum": 3,
+      "id": 108,
+      "name": "《32个Java面试必考点-复制新课内容2》",
+      "lastLearnLessonName": "未开始学习",
+      "image": "http://www.lgstatic.com/i/audio1/M00/06/6B/CgHIk111_jOABsC_AAF8gpDF-74571.png"
+    }
+  ],
+  "success": true
+}

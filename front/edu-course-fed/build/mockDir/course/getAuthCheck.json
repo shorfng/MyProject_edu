@@ -1,0 +1,18 @@
+{
+  "content": {
+    "joinInfo": {
+      "courseId": 2,
+      "courseName": "300分钟带你飞",
+      "wechatJoinTip": [
+        "添加运营小姐姐微信",
+        "开启与小辉的学习之旅"
+      ],
+      "wechatNo": "1827399485738385",
+      "wechatUserImg": "http://www.liantu.com/images/2013/liantu.png",
+      "wechatUserTip": "记得发送暗号：魏梦舒"
+    }
+  },
+  "message": "string",
+  "state": 1121212,
+  "uiMessage": "string"
+}

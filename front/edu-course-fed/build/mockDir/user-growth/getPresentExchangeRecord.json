@@ -1,0 +1,55 @@
+{
+	"state": 1,
+	"message": "操作成功",
+	"content": [{
+		"presentId": 2,
+		"presentType": "课程",
+		"courseId": 49,
+		"courseName": "CCCCC",
+		"courseImageUrl": "https://www.lgstatic.com/i/audio1/M00/07/01/CgHIk15NJtGARUObAAB1q2ha8Ak385.jpg",
+		"costCredit": 0,
+		"exchangeTime": 1590211284000
+	}, {
+		"presentId": 3,
+		"presentType": "课程",
+		"courseId": 110,
+		"courseName": "jycs-zhy训练营就业课",
+		"courseImageUrl": "https://www.lgstatic.com/i/audio1/M00/07/A8/CgHIk16lJlGAVfWdAAEnuSJgPLU565.png",
+		"costCredit": 0,
+		"exchangeTime": 1590201440000
+	},
+	{
+		"presentId": 2,
+		"presentType": "课程",
+		"courseId": 49,
+		"courseName": "CCCCC",
+		"courseImageUrl": "https://www.lgstatic.com/i/audio1/M00/07/01/CgHIk15NJtGARUObAAB1q2ha8Ak385.jpg",
+		"costCredit": 0,
+		"exchangeTime": 1590211284000
+	}, {
+		"presentId": 3,
+		"presentType": "课程",
+		"courseId": 110,
+		"courseName": "jycs-zhy训练营就业课",
+		"courseImageUrl": "https://www.lgstatic.com/i/audio1/M00/07/A8/CgHIk16lJlGAVfWdAAEnuSJgPLU565.png",
+		"costCredit": 0,
+		"exchangeTime": 1590201440000
+	},{
+		"presentId": 2,
+		"presentType": "课程",
+		"courseId": 49,
+		"courseName": "CCCCC",
+		"courseImageUrl": "https://www.lgstatic.com/i/audio1/M00/07/01/CgHIk15NJtGARUObAAB1q2ha8Ak385.jpg",
+		"costCredit": 0,
+		"exchangeTime": 1590211284000
+	}, {
+		"presentId": 3,
+		"presentType": "课程",
+		"courseId": 110,
+		"courseName": "jycs-zhy训练营就业课",
+		"courseImageUrl": "https://www.lgstatic.com/i/audio1/M00/07/A8/CgHIk16lJlGAVfWdAAEnuSJgPLU565.png",
+		"costCredit": 0,
+		"exchangeTime": 1590201440000
+	}],
+	"uiMessage": null
+}

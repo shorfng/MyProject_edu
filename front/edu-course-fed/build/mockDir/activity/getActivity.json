@@ -1,0 +1,33 @@
+{
+    "state": 1,
+    "message": "操作成功",
+    "content": {
+        "activity": {
+            "id": "ziru",
+            "title": "测试开发工程师名企直推营",
+            "appUrl": "https://www.lgstatic.com",
+            "bannerImage": "https://s0.lgstatic.com/i/image3/M01/06/86/CgoCgV6gCoSADgVMAAotesNexfw204.png",
+            "activityCourseList": [
+                {
+                    "name": "sunnyzhang测试专栏课",
+                    "image": "https://www.lgstatic.com/i/audio1/M00/07/92/CgHIk15oxvmAIC_oAAECifAWsNs903.png",
+                    "price": "¥12",
+                    "brief": "副标题",
+                    "teacherName": "讲师1",
+                    "positionTitle": "讲师title"
+                },
+                {
+                    "name": "yy就业课关联训练营",
+                    "image": "https://www.lgstatic.com/i/audio1/M00/07/98/CgHIk157C_aAHIFZAAAcTegQu40170.png",
+                    "price": "¥1",
+                    "brief": "yy就业课关联训练营副标题",
+                    "teacherName": "讲师1",
+                    "positionTitle": ""
+                }
+            ]
+        },
+        "hasParticipated": false,
+        "existActivty": true
+    },
+    "uiMessage": null
+}

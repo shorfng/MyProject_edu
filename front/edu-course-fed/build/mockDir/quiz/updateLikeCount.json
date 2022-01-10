@@ -1,0 +1,9 @@
+{
+    "content": {
+      "errorMsg": "string",
+      "hasSubmited": true
+    },
+    "message": "string",
+    "state": 1,
+    "uiMessage": "string"
+}

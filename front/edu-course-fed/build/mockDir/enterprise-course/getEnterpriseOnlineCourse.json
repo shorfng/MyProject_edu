@@ -1,0 +1,179 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "currentPage": 4,
+    "pageSize": 10,
+    "recordList": [
+      {
+        "courseId": 78,
+        "courseName": ".net视频课",
+        "brief": "这里副标题",
+        "courseImgUrl": "https://www.lgstatic.com/i/audio1/M00/07/9E/CgHIk16MJlmACFqfAABi63E7Kqs811.jpg",
+        "courseUrl": null,
+        "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d78%26sid%3d20-h5Url-0",
+        "teacherVo": {
+          "id": 79,
+          "teacherName": "XM",
+          "position": "TEST",
+          "teacherHeadPicUrl": "https://www.lgstatic.com/i/audio1/M00/07/9E/CgHIk16MM8aAOTHOAACxrX3mFbo029.jpg",
+          "description": "<p>111111111111111111111111111<br/>2222222222222222222<br/>33333333333333<br/>4444444444</p>"
+        },
+        "decorateId": null,
+        "courseType": "VIDEO",
+        "grade": 0
+      },
+      {
+        "courseId": 74,
+        "courseName": "视频课1视频课1视频课1视频课1视频课1视频",
+        "brief": "我是副标题哦",
+        "courseImgUrl": "https://www.lgstatic.com/i/audio1/M00/07/97/CgHIk154KQGAUjQnAABQriDhHuI530.png",
+        "courseUrl": null,
+        "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d74%26sid%3d20-h5Url-0",
+        "teacherVo": {
+          "id": 75,
+          "teacherName": "李道贝",
+          "position": "教授",
+          "teacherHeadPicUrl": "https://www.lgstatic.com/i/audio1/M00/07/97/CgHIk154Ka6AHo1xAAA1gul7Lso292.png",
+          "description": "<p>介绍什么呢？</p><p><br/></p>"
+        },
+        "decorateId": null,
+        "courseType": "VIDEO",
+        "grade": 0
+      },
+      {
+        "courseId": 73,
+        "courseName": "XM视频课01",
+        "brief": "副标题",
+        "courseImgUrl": "https://www.lgstatic.com/i/audio1/M00/07/95/CgHIk15xkaOAeUuTAACk7tSvuAs128.jpg",
+        "courseUrl": null,
+        "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d73%26sid%3d20-h5Url-0",
+        "teacherVo": {
+          "id": 74,
+          "teacherName": "讲师1",
+          "position": "高级教授01",
+          "teacherHeadPicUrl": "https://www.lgstatic.com/i/audio1/M00/07/95/CgHIk15xkh-AJMJpAACjCX_SKe4765.jpg",
+          "description": "<p style=\"white-space: normal;\">课程背景大数据时代，数据已是各家企业立身之根本。如何保护自家数据？如何爬取别人家的数据？成为各家数据工程师的矛和盾，也让爬虫与反爬虫技术在这几年飞速发展。很多有Python基础的人，都会选课程背景大数据时代，数据已是各家企业立身之根本。如何保护自家数据？如何爬取别人家的数据？成为各家数据工程师的矛和盾，也让爬虫与反爬虫技术在这几年飞速发展。很多有Python基础的人，都会选课程背景大数据时代，数据已是各家企业立身之根本。如何保护自家数据？如何爬取别人家的数据？成为各家数据工程师的矛和盾，也让爬虫与反爬虫技术在这几年飞速发展。很多有Python基础的人，都会选</p><p style=\"white-space: normal;\">课程背景大数据时代，数据已是各家企业立身之根本。如何保护自家数据？如何爬取别人家的数据？成为各家数据工程师的矛和盾，也让爬虫与反爬虫技术在这几年飞速发展。很多有Python基础的人，都会选课程背景大数据时代，数据已是各家企业立身之根本。如何保护自家数据？如何爬取别人家的数据？成为各家数据工程师的矛和盾，也让爬虫与反爬虫技术在这几年飞速发展。很多有Python基础的人，都会选课程背景大数据时代，数据已是各家企业立身之根本。如何保护自家数据？如何爬取别人家的数据？成为各家数据工程师的矛和盾，也让爬虫与反爬虫技术在这几年飞速发展。很多有Python基础的人，都会选</p><p style=\"white-space: normal;\">课程背景大数据时代，数据已是各家企业立身之根本。如何保护自家数据？如何爬取别人家的数据？成为各家数据工程师的矛和盾，也让爬虫与反爬虫技术在这几年飞速发展。很多有Python基础的人，都会选课程背景大数据时代，数据已是各家企业立身之根本。如何保护自家数据？如何爬取别人家的数据？成为各家数据工程师的矛和盾，也让爬虫与反爬虫技术在这几年飞速发展。很多有Python基础的人，都会选课程背景大数据时代，数据已是各家企业立身之根本。如何保护自家数据？如何爬取别人家的数据？成为各家数据工程师的矛和盾，也让爬虫与反爬虫技术在这几年飞速发展。很多有Python基础的人，都会选</p><p><br/></p>"
+        },
+        "decorateId": null,
+        "courseType": "VIDEO",
+        "grade": 0
+      },
+      {
+        "courseId": 72,
+        "courseName": "视频课测试发布情况",
+        "brief": "视频课测试发布情况-xiaoetong",
+        "courseImgUrl": "https://www.lgstatic.com/i/audio1/M00/07/94/CgHIk15u7DSAWSrgAAGAPPbqkRM099.jpg",
+        "courseUrl": null,
+        "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d72%26sid%3d20-h5Url-0",
+        "teacherVo": {
+          "id": 73,
+          "teacherName": "讲师1",
+          "position": "",
+          "teacherHeadPicUrl": "https://www.lgstatic.com/i/audio1/M00/07/94/CgHIk15u7GaAELrpAAGAPPbqkRM794.jpg",
+          "description": "<p>试试事实上所所所所所所所所所所</p>"
+        },
+        "decorateId": null,
+        "courseType": "VIDEO",
+        "grade": 0
+      },
+      {
+        "courseId": 69,
+        "courseName": "yy视频课22",
+        "brief": "yy视频课22副标题",
+        "courseImgUrl": "https://www.lgstatic.com/i/audio1/M00/07/93/CgHIk15prl-AR7-nAAGkjX5kHys778.png",
+        "courseUrl": null,
+        "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d69%26sid%3d20-h5Url-0",
+        "teacherVo": {
+          "id": 70,
+          "teacherName": "杨彦1",
+          "position": "顶级讲师",
+          "teacherHeadPicUrl": "https://www.lgstatic.com/i/audio1/M00/07/93/CgHIk15prqWAPgWGAAAhJuBSeUc880.png",
+          "description": "<p>我来介绍一下：杨彦彦彦彦彦彦彦彦彦彦彦彦彦彦彦彦彦彦彦彦彦</p>"
+        },
+        "decorateId": null,
+        "courseType": "VIDEO",
+        "grade": 0
+      },
+      {
+        "courseId": 68,
+        "courseName": "yy视频课",
+        "brief": "yy视频课副标题",
+        "courseImgUrl": "https://www.lgstatic.com/i/audio1/M00/07/93/CgHIk15o32KAPYUHAAAOvPpOfns584.png",
+        "courseUrl": null,
+        "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d68%26sid%3d20-h5Url-0",
+        "teacherVo": {
+          "id": 69,
+          "teacherName": "杨彦",
+          "position": "顶级讲师",
+          "teacherHeadPicUrl": "https://www.lgstatic.com/i/audio1/M00/07/93/CgHIk15o39OAGox3AAAXnc3Xj5M061.jpg",
+          "description": "<p>杨彦介绍：啦啦啦啦啦啦啦啦啦啦啦</p>"
+        },
+        "decorateId": null,
+        "courseType": "VIDEO",
+        "grade": 0
+      },
+      {
+        "courseId": 67,
+        "courseName": "sunnyzhang视频课222222",
+        "brief": "副标题",
+        "courseImgUrl": "https://www.lgstatic.com/i/audio1/M00/07/93/CgHIk15ozJuAB-d7AAECifAWsNs082.png",
+        "courseUrl": null,
+        "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d67%26sid%3d20-h5Url-0",
+        "teacherVo": {
+          "id": 68,
+          "teacherName": "讲师1",
+          "position": "title",
+          "teacherHeadPicUrl": "https://www.lgstatic.com/i/tempfiles1/M00/02/F7/CgHIk15ozM2AVoobAAEnuSJgPLU530.png",
+          "description": "<p>阿啥的合法开始定和发卡机收到货发举案说法</p>"
+        },
+        "decorateId": null,
+        "courseType": "VIDEO",
+        "grade": 0
+      },
+      {
+        "courseId": 65,
+        "courseName": "视频课事发地点收到收到所否勿动视频课搜索搜索",
+        "brief": "视频课sunnyzhang勿动副标题",
+        "courseImgUrl": "https://www.lgstatic.com/i/audio1/M00/07/92/CgHIk15olJ6AN9XhAAECifAWsNs508.png",
+        "courseUrl": null,
+        "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d65%26sid%3d20-h5Url-0",
+        "teacherVo": {
+          "id": 66,
+          "teacherName": "讲师1姓名",
+          "position": "讲师1-title",
+          "teacherHeadPicUrl": "https://www.lgstatic.com/i/audio1/M00/07/92/CgHIk15olRuATYgqAAEnuSJgPLU064.png",
+          "description": "<p>卡决胜巅峰课时点击开发机考试地方as快递费角色点击开发交付可接受看的房价</p>"
+        },
+        "decorateId": null,
+        "courseType": "VIDEO",
+        "grade": 0
+      },
+      {
+        "courseId": 48,
+        "courseName": "DDDDD",
+        "brief": "fasfa",
+        "courseImgUrl": "https://www.lgstatic.com/i/audio1/M00/07/01/CgHIk15NJbuAecnnAAAccync9hI038.jpg",
+        "courseUrl": null,
+        "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d48%26sid%3d20-h5Url-0",
+        "teacherVo": {
+          "id": 48,
+          "teacherName": "讲师1asfaf",
+          "position": "asdfafaf",
+          "teacherHeadPicUrl": "https://www.lgstatic.com/i/audio1/M00/07/01/CgHIk15NJeyARlKgAAAccync9hI047.jpg",
+          "description": "<p>asdfafafafd</p>"
+        },
+        "decorateId": null,
+        "courseType": "VIDEO",
+        "grade": 0
+      }
+    ],
+    "recordCount": 39,
+    "pageCount": 4,
+    "beginPageIndex": 1,
+    "endPageIndex": 4,
+    "lastPage": 3,
+    "nextPage": 0
+  },
+  "uiMessage": null
+}

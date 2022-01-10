@@ -1,0 +1,33 @@
+{
+    "state": 1,
+    "message": "操作成功",
+    "content": {
+      "lessonId": 31,
+      "lessonDayId": 6,
+      "lessonName": "大大声",
+      "lessonStatus": null,
+      "type": "CLASSWORK",
+      "testUrl": null,
+      "classworkName": "<p>大叔大婶大所</p>",
+      "classworkUploadUrl": null,
+      "duration": null,
+      "fileId": null,
+      "fileUrl": null,
+      "fileSize": null,
+      "sortNum": 11,
+      "classworkJudgeVo": {
+        "score": null,
+        "status": "UNSUBMIT",
+        "judge": null,
+        "fileId": null,
+        "fileUrl": null,
+        "fileSize": null,
+        "appId": null,
+        "weekName": null,
+        "answerUrl": null,
+        "noteUrl": null,
+        "bigCourseLessonMediaChannel": null
+      }
+    },
+    "uiMessage": null
+  }

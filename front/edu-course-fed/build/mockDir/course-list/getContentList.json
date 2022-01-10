@@ -1,0 +1,65 @@
+{
+    "content": {
+      "contentCardList": [
+        {
+          "bigCourseList": [
+            {
+              "brief": "拉勾背书内推 + 硬核实战技术干货↵帮助每位 Java 工程师，达到阿里 P7 技术能力",
+              "href": "https://kaiwu.lagou.com/java_architect.html?utm_source=app_edu",
+              "id": 1,
+              "image": "https://www.lgstatic.com/i/audio1/M00/07/FB/CgHIk17Z6_SAP55iAAHOZbkVsvY013.png",
+              "title": "string"
+            },            
+            {
+                "brief": "拉勾背书内推 + 硬核实战技术干货↵帮助每位 Java 工程师，达到阿里 P7 技术能力",
+                "href": "https://kaiwu.lagou.com/java_architect.html?utm_source=app_edu",
+                "id": 2,
+                "image": "https://www.lgstatic.com/i/audio1/M00/07/FB/CgHIk17Z6_SAP55iAAHOZbkVsvY013.png",
+                "title": "string"
+              },            {
+                "brief": "拉勾背书内推 + 硬核实战技术干货↵帮助每位 Java 工程师，达到阿里 P7 技术能力",
+                "href": "https://kaiwu.lagou.com/java_architect.html?utm_source=app_edu",
+                "id": 3,
+                "image": "https://www.lgstatic.com/i/audio1/M00/07/FB/CgHIk17Z6_SAP55iAAHOZbkVsvY013.png",
+                "title": "string"
+              },            
+              {
+                "brief": "拉勾背书内推 + 硬核实战技术干货↵帮助每位 Java 工程师，达到阿里 P7 技术能力",
+                "href": "https://kaiwu.lagou.com/java_architect.html?utm_source=app_edu",
+                "id": 4,
+                "image": "https://www.lgstatic.com/i/audio1/M00/07/FB/CgHIk17Z6_SAP55iAAHOZbkVsvY013.png",
+                "title": "string"
+              },            
+              {
+                "brief": "拉勾背书内推 + 硬核实战技术干货↵帮助每位 Java 工程师，达到阿里 P7 技术能力",
+                "href": "https://kaiwu.lagou.com/java_architect.html?utm_source=app_edu",
+                "id": 5,
+                "image": "https://www.lgstatic.com/i/audio1/M00/07/FB/CgHIk17Z6_SAP55iAAHOZbkVsvY013.png",
+                "title": "string"
+              },
+              {
+                "brief": "拉勾背书内推 + 硬核实战技术干货↵帮助每位 Java 工程师，达到阿里 P7 技术能力",
+                "href": "https://kaiwu.lagou.com/java_architect.html?utm_source=app_edu",
+                "id": 6,
+                "image": "https://www.lgstatic.com/i/audio1/M00/07/FB/CgHIk17Z6_SAP55iAAHOZbkVsvY013.png",
+                "title": "string"
+              },
+              {
+                "brief": "拉勾背书内推 + 硬核实战技术干货↵帮助每位 Java 工程师，达到阿里 P7 技术能力",
+                "href": "https://kaiwu.lagou.com/java_architect.html?utm_source=app_edu",
+                "id": 7,
+                "image": "https://www.lgstatic.com/i/audio1/M00/07/FB/CgHIk17Z6_SAP55iAAHOZbkVsvY013.png",
+                "title": "string"
+              }
+          ],
+          "cardTitle": "string",
+          "sortNum": 0,
+          "type": 0
+        }
+      ],
+      "sortNum": 0
+    },
+    "message": "string",
+    "state": 1,
+    "uiMessage": "string"
+  }

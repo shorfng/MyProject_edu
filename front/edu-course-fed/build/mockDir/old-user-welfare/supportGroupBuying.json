@@ -1,0 +1,12 @@
+{
+    "state": 1,
+    "message": "",
+    "content": {
+      "isGroupBuyingSuccess": true,
+      "buttonLink": "https://kaiwu.lagou.com",
+      "buttonText": "我也要半价抢好课",
+      "description": "感谢你为我助力。。。。",
+      "userInfo": {"userImage": "https://www.lgstatic.com/thumbnail_160x160/i/image2/M01/79/70/CgotOV1aS4qAWK6WAAAM4NTpXws809.png", "userName": "周壮"},
+      "spacePicture": "https://www.lgstatic.com/thumbnail_160x160/i/image2/M01/79/70/CgotOV1aS4qAWK6WAAAM4NTpXws809.png"
+    }
+}

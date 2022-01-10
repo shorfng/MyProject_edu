@@ -1,0 +1,12 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "courseId": 1,
+    "sectionId": 1,
+    "lessonId": 1,
+    "historyNode": 900,
+    "historyHighestNode": 474
+  },
+  "uiMessage": null
+}

@@ -1,0 +1,71 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "data": {
+      "sidebarAds": [{
+        "id": 1,
+        "name": "sidebarAdsxxxxxx1",
+        "promotionSpaceId": 2,
+        "subsite": "sidebarAds子标题XXX1",
+        "img1": "https://sta-op.douyucdn.cn/douyu-vrp-admin/2019/06/25/14cf872c6b870a93ce3e3f436c9f9eef.jpg",
+        "startTime": "2019-07-04 17:12:57",
+        "endTime": "2019-07-04 17:12:57",
+        "location": 1,
+        "link1": "http://www.baidu.com"
+      }, {
+        "id": 2,
+        "name": "sidebarAdsxxxxxx1",
+        "promotionSpaceId": 3,
+        "subsite": "sidebarAds子标题XXX2",
+        "img1": "https://rpic.douyucdn.cn/asrpic/190704/64593_1927.png",
+        "startTime": "2019-07-04 17:12:57",
+        "endTime": "2019-07-04 17:12:57",
+        "location": 2,
+        "link1": "http://www.baidu.com"
+      }, {
+        "id": 3,
+        "name": "sidebarAdsxxxxxx1",
+        "promotionSpaceId": 4,
+        "subsite": "sidebarAds子标题XXX3",
+        "img1": "https://rpic.douyucdn.cn/asrpic/190704/5388537_1918.png",
+        "startTime": "2019-07-04 17:12:57",
+        "endTime": "2019-07-04 17:12:57",
+        "location": 3,
+        "link1": "http://www.baidu.com"
+      }],
+      "topAds": [{
+        "id": 1,
+        "name": "topAdsxxxxxx1",
+        "promotionSpaceId": 2,
+        "subsite": "topAds子标题XXX1",
+        "img1": "https://www.lgstatic.com/i/image2/M01/51/7E/CgoB5l0S2NOAQGP5AAGDoZCWy_A423.JPG",
+        "startTime": "2019-07-04 17:12:57",
+        "endTime": "2019-07-04 17:12:57",
+        "location": 1,
+        "link1": "http://www.baidu.com"
+      }, {
+        "id": 2,
+        "name": "topAdsxxxxxx1",
+        "promotionSpaceId": 3,
+        "subsite": "topAds子标题XXX2",
+        "img1": "https://www.lgstatic.com/i/image2/M01/53/C2/CgotOV0VlFSAFVKJAAESrNReXp0696.JPG",
+        "startTime": "2019-07-04 17:12:57",
+        "endTime": "2019-07-04 17:12:57",
+        "location": 2,
+        "link1": "http://www.baidu.com"
+      }, {
+        "id": 3,
+        "name": "topAdsxxxxxx1",
+        "promotionSpaceId": 4,
+        "subsite": "topAds子标题XXX3",
+        "img1": "https://www.lgstatic.com/i/image2/M01/4E/05/CgoB5l0MvIWAdkYuAAFh9GKgkMQ996.JPG",
+        "startTime": "2019-07-04 17:12:57",
+        "endTime": "2019-07-04 17:12:57",
+        "location": 3,
+        "link1": "http://www.baidu.com"
+      }]
+    },
+    "rows": []
+  }
+}

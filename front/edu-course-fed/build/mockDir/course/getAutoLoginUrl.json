@@ -1,0 +1,6 @@
+{
+  "state": 0,
+  "message": "操作成功",
+  "content": "https://kaiwu.lagou.com/course/main.html#/detail/h5?id=${currentCourseLessons.id}&from=PC_SHARE",
+  "uiMessage": null
+}

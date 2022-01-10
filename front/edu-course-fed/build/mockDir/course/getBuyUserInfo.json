@@ -1,0 +1,22 @@
+{
+  "content": {
+    "buyUsers": [
+      {
+        "buyUserName": "张玉东1",
+        "buyUserPortrait": "http://img3.imgtn.bdimg.com/it/u=378824344,1185609431&fm=26&gp=0.jpg"
+      },
+      {
+        "buyUserName": "张玉东2",
+        "buyUserPortrait": "http://img3.imgtn.bdimg.com/it/u=378824344,1185609431&fm=26&gp=0.jpg"
+      },
+      {
+        "buyUserName": "张玉东张玉东2张玉东2张玉东2张玉东2张玉东2张玉东2张玉东22",
+        "buyUserPortrait": "http://img3.imgtn.bdimg.com/it/u=378824344,1185609431&fm=26&gp=0.jpg"
+      }
+    ],
+    "showBuyUser": true
+  },
+  "message": "string",
+  "state": 1,
+  "uiMessage": "string"
+}

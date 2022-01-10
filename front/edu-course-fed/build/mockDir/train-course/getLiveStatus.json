@@ -1,0 +1,16 @@
+{
+    "content": {
+        "fileId": "5285890796241810476",
+        "liveDayId": 12121,
+        "liveId": 12,
+        "liveName": "直播名称-直播名称-直播名称-1",
+        "liveStartTime": 1579249500000,
+        "liveStatus": "ON_LIVE",
+        "liveStatusShowName": "直播状态解释 ",
+        "liveUrl": "https://www.baidu.com",
+        "sortNum": 0
+    },
+    "message": "string",
+    "state": 1,
+    "uiMessage": "string"
+  }

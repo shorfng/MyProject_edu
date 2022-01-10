@@ -1,0 +1,6 @@
+{
+  "state": 1,
+  "message": "success",
+  "content": "{\"access_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMTAwMDI5OTMzIiwidXNlcl9uYW1lIjoiMTgyMDEyODg3NzAiLCJzY29wZSI6WyJyZWFkIl0sIm9yZ2FuaXphdGlvbiI6IjE4MjAxMjg4NzcwIiwiZXhwIjoxNTkyODM3MTE4LCJhdXRob3JpdGllcyI6WyJOT05FIl0sImp0aSI6ImNzM1NUTU51QThoSnJSVURCYnRyd0MtRXBiWSIsImNsaWVudF9pZCI6InRlc3RfY2xpZW50In0.4aQY3XNWK93PHCC0ag3pROnHJtWarnmCS4HK-GFiVr4\",\"token_type\":\"bearer\",\"refresh_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMTAwMDI5OTMzIiwidXNlcl9uYW1lIjoiMTgyMDEyODg3NzAiLCJzY29wZSI6WyJyZWFkIl0sIm9yZ2FuaXphdGlvbiI6IjE4MjAxMjg4NzcwIiwiYXRpIjoiY3MzU1RNTnVBOGhKclJVREJidHJ3Qy1FcGJZIiwiZXhwIjoxNTkyOTM3OTE3LCJhdXRob3JpdGllcyI6WyJOT05FIl0sImp0aSI6IjR6MlJDbjd1Qy1JUlFEZUtNTWlDMHVRdy1ZNCIsImNsaWVudF9pZCI6InRlc3RfY2xpZW50In0.lo5G1KhgZgHIkQKIkxVBlr-mROjM3uZBkRWavntl2Nc\",\"expires_in\":5858,\"scope\":\"read\",\"user_id\":\"100029933\",\"organization\":\"18201288770\",\"jti\":\"cs3STMNuA8hJrRUDBbtrwC-EpbY\"}",
+  "success": true
+}

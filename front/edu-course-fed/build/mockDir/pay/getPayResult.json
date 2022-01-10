@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "state": 0,
+  "message": "",
+  "content": {
+    "orderNo": "",
+    "productId": 0,
+    "amount": 0,
+    "currency": "",
+    "channel": "",
+    "status": 0,
+    "orderType": 0,
+    "source": 0,
+    "payTime": ""
+  }
+}

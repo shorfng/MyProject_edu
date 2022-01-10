@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      "lagou-mock-middleware@2.0.3",
+      "/Users/lagou/workspace/new-kaiwu"
+    ]
+  ],
+  "_development": true,
+  "_from": "lagou-mock-middleware@2.0.3",
+  "_id": "lagou-mock-middleware@2.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-blxAyl/TQAyptVppqtVrOgQkNGvSPwC4Pq91pOz4tXm7PqGXZ3RdwMRHbHprPHSVtVZOpNYr074X0B31F2QTjg==",
+  "_location": "/lagou-mock-middleware",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "lagou-mock-middleware@2.0.3",
+    "name": "lagou-mock-middleware",
+    "escapedName": "lagou-mock-middleware",
+    "rawSpec": "2.0.3",
+    "saveSpec": null,
+    "fetchSpec": "2.0.3"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "http://npm-repo.lagou.com/lagou-mock-middleware/-/lagou-mock-middleware-2.0.3.tgz",
+  "_spec": "2.0.3",
+  "_where": "/Users/lagou/workspace/new-kaiwu",
+  "author": {
+    "name": "wangjinyang"
+  },
+  "bugs": {
+    "url": "https://github.com/wangjinyang/lagou-mock-middleware/issues"
+  },
+  "dependencies": {
+    "chokidar": "^2.1.2",
+    "moment": "^2.24.0",
+    "request": "^2.88.0"
+  },
+  "description": "webpack mock data",
+  "devDependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "supervisor": "^0.12.0"
+  },
+  "homepage": "https://github.com/wangjinyang/lagou-mock-middleware#readme",
+  "license": "ISC",
+  "main": "lagou-mock-middleware",
+  "name": "lagou-mock-middleware",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangjinyang/lagou-mock-middleware.git"
+  },
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "supervisor node ./bin/www"
+  },
+  "version": "2.0.3"
+}

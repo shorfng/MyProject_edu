@@ -1,0 +1,62 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "unavailableEarning": "891",
+    "nextStartId": 21,
+    "hasNextPage": false,
+    "tradeRecordList": [{
+      "dateString": "12月16日",
+      "goodsName": "提现",
+      "earning": "9",
+      "descriptionError":"错误消息",
+      "status": 6
+    }, {
+      "dateString": "12月13日",
+      "goodsName": "提现",
+      "earning": "50",
+      "status": 1
+    }, {
+      "dateString": "12月06日",
+      "goodsName": "提现",
+      "earning": "10",
+      "status": 1
+    }, {
+      "dateString": "12月06日",
+      "goodsName": "推广收益-32个Java面试必考点",
+      "earning": "10",
+      "status": 3
+    }, {
+      "dateString": "12月06日",
+      "goodsName": "积分兑换",
+      "earning": "10",
+      "status": 2
+    }, {
+      "dateString": "12月11日",
+      "goodsName": "提现",
+      "earning": "50",
+      "status": 5
+    }, {
+      "dateString": "12月06日",
+      "goodsName": "积分兑换1",
+      "earning": "10",
+      "status": 1
+    }, {
+      "dateString": "12月06日",
+      "goodsName": "积分兑换",
+      "earning": "10",
+      "status": 1
+    }, {
+      "dateString": "12月06日",
+      "goodsName": "积分兑换",
+      "earning": "10",
+      "status": 1
+    }, {
+      "dateString": "12月06日",
+      "goodsName": "积分兑换",
+      "earning": "10",
+      "status": 1
+    }]
+  },
+  "uiMessage": null
+}

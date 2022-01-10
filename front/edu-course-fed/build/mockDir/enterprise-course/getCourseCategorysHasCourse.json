@@ -1,0 +1,24 @@
+{
+  "content": [
+    { "id": 2,  "secondTypeName": "人工智能" },
+    { "id": 3,  "secondTypeName": "大数据" },
+    { "id": 4,  "secondTypeName": "WEB前端开发" },
+    { "id": 5,  "secondTypeName": "Go语言" },
+    { "id": 6,  "secondTypeName": "Linux/云计算" },
+    { "id": 7,  "secondTypeName": "Python开发" },
+    { "id": 8,  "secondTypeName": "PHP开发" },
+    { "id": 9,  "secondTypeName": "移动开发" },
+    { "id": 10, "secondTypeName": "Java开发" },
+    { "id": 11, "secondTypeName": "C/C++开发" },
+    { "id": 12, "secondTypeName": ".NET/C#开发" },
+    { "id": 13, "secondTypeName": "UI设计" },
+    { "id": 14, "secondTypeName": "网站安全与监控" },
+    { "id": 15, "secondTypeName": "网络营销" },
+    { "id": 16, "secondTypeName": "网络工程师" },
+    { "id": 17, "secondTypeName": "职场办公" },
+    { "id": 18, "secondTypeName": "软件测试" }
+  ],
+  "message": "string",
+  "state": 1,
+  "uiMessage": "string"
+}

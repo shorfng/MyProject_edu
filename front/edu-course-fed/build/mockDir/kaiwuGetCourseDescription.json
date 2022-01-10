@@ -1,0 +1,29 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "id": 1,
+    "courseCId": null,
+    "courseName": null,
+    "teacherDTO": null,
+    "totalCourseTime": null,
+    "totalDuration": null,
+    "sales": null,
+    "price": null,
+    "priceTag": null,
+    "discounts": null,
+    "discountsTag": null,
+    "courseImgUrl": null,
+    "isNew": null,
+    "isNewDes": null,
+    "seoDescription": null,
+    "seoKeywords": null,
+    "seoTitle": null,
+    "shareTitle": null,
+    "shareDescription": null,
+    "courseSections": null,
+    "courseDescription": [{"content":["{\"courseId\":16,\"createTime\":1572939105000,\"description\":\"<p><span style=\\\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\\\">徐隆曦，</span><span style=\\\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\\\">现就职于滴滴出行，是</span><span style=\\\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\\\">车服</span><span style=\\\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\\\">驾驶安全平台</span><span style=\\\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\\\">的技术负责人</span><span style=\\\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\\\">，</span><span style=\\\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\\\">拥有德国顶尖学府慕尼黑工业大学和同济大学双硕士学位。</span><p line=\\\"lFTL\\\"><span style=\\\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\\\">&nbsp;</span></p><p line=\\\"SK4f\\\"><span style=\\\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\\\">从 0 到 1 搭建了滴滴出行小桔车服的驾驶安全平台、客服治理平台等重点项目，拥有千万级流量的高并发系统的设计经验，对 JUC 包的源码有深入研究。</span></p></p>\",\"id\":17,\"isDel\":false,\"lastOperator\":\"14973065\",\"position\":\"滴滴出行驾驶安全平台技术负责人\",\"teacherHeadPicUrl\":\"http://www.lgstatic.com/i/image2/M01/A4/5B/CgotOV3BEHmAfRqHAAAtKPG2PnQ169.png\",\"teacherName\":\"徐隆曦\",\"updateTime\":1572939105000}"],"orderNum":0,"title":"课程讲师","type":"teacher"},{"content":["<p><span style=\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">这个世界都是并发的，编程里更是这样，俗话说：并发知识大，一口吃不下。想成为一名优秀的 Java 开发，学好并发，绝对是你走入高薪行列的必备能力之一。</span></p> \n<p line=\"sUnx\"><span style=\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">&nbsp;</span></p> \n<p line=\"OFJg\"><span style=\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">很多程序员，整天沉浸在业务代码的 CRUD 中，业务中没有大量数据做并发，缺少实战经验，对并发仅仅停留在了解，做不到精通，所以总是与大厂擦肩而过。</span></p> \n<p line=\"er4Y\"><span style=\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">&nbsp;</span></p> \n<p line=\"2rb8\"><span style=\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">并发涉及的知识点，其实十分琐碎。学完记不住，记住了用不对。在并发底层原理中，不仅涉及 Java 语言，更涉及 JVM、操作系统、内存、CPU 指令等，令人一头雾水。</span></p> \n<p line=\"tnv7\"><span style=\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">&nbsp;</span></p> \n<p line=\"FStH\"><span style=\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">专栏从面试题目入手，帮你在现有的知识框架中，系统的学习的 Java 并发编程知识，告别碎片化获取并发知识的。</span></p> \n<p line=\"ThVW\"><span style=\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">&nbsp;</span></p> \n<p line=\"qY4U\"><span style=\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">通过 78 个核心知识点，100+ 道面试题，帮你建立起知识脉络。让每一个工具类，成为你并发知识体系中的一块块“拼图”。</span></p> \n<p></p>"],"orderNum":1,"title":"课程背景","type":"html-raw"},{"content":["面试|从底层知识拆解100+面试真题","实用|掌握78个工作中常用并发技巧","底层|深入理解内存模型、CAS、AQS等底层原理","全面|构建一套完整的Java并发核心知识框架"],"orderNum":2,"title":"学习收获","type":"text"},{"content":["http://www.lgstatic.com/i/image2/M01/A4/4C/CgoB5l3BJA-AL3BYAAV1C6yhqGw560.jpg"],"orderNum":3,"title":"课程大纲","type":"image"},{"content":["<p><span data-shimo-docs=\"[[20,&quot;1. 本专栏处于预售期，共 78 讲，每周更新 2 讲；&quot;,&quot;27:\\&quot;12\\&quot;&quot;],[20,&quot;\\n&quot;,&quot;7:3&quot;],[20,&quot;2. 支持视频+音频+图文 3 种阅读形式；&quot;,&quot;27:\\&quot;12\\&quot;&quot;],[20,&quot;\\n&quot;,&quot;7:3&quot;],[20,&quot;3. 购买后在拉勾 App - 课程，可永久观看课程；&quot;,&quot;27:\\&quot;12\\&quot;&quot;],[20,&quot;\\n&quot;,&quot;7:3&quot;],[20,&quot;4. 视频课程为虚拟商品，一旦售出不可申请退款；&quot;,&quot;27:\\&quot;12\\&quot;&quot;],[20,&quot;\\n&quot;,&quot;7:3&quot;],[20,&quot;5. 本课程版权归拉勾所有，严禁翻录，违者必究；&quot;,&quot;27:\\&quot;12\\&quot;&quot;],[20,&quot;\\n&quot;,&quot;7:3&quot;],[20,&quot;6. 如有问题请咨询客服同学，&quot;,&quot;27:\\&quot;12\\&quot;&quot;],[20,&quot;召唤客服>>>&quot;,&quot;0:\\&quot;%23000000\\&quot;|16:\\&quot;https%3A%2F%2Fjinshuju.net%2Ff%2FngEPnR\\&quot;|27:\\&quot;12\\&quot;|31:2&quot;]]\"></span></p>\n<p line=\"G6TP\">1. 本专栏处于预售期，共 78 讲，每周更新 3 讲；</p>\n<p line=\"Fr4p\">2. 支持视频+音频+图文 3 种阅读形式；</p>\n<p line=\"V4eS\">3. 购买后在拉勾 App - 课程，可永久观看课程；</p>\n<p line=\"ZBiM\">4. 视频课程为虚拟商品，一旦售出不可申请退款；</p>\n<p line=\"r9jz\">5. 本课程版权归拉勾所有，严禁翻录，违者必究；</p>\n<p line=\"rFgC\">6. 如有问题请咨询客服同学，<a href=\"https://jinshuju.net/f/ngEPnR\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">召唤客服&gt;&gt;&gt;</a></p>\n<p><br></p>"],"orderNum":4,"title":"订阅须知","type":"html-raw"}],
+    "coursePlayHistoryDTO": null
+  },
+  "uiMessage": null
+}

@@ -1,0 +1,167 @@
+{
+	"state": 1,
+	"message": "操作成功",
+	"content": [
+		{
+		"id": 9,
+		"taskId": 1,
+		"courseName":"32个java面试",
+		"taskName": "开启新技能",
+		"obtainCredit": 3,
+		"obtainTime": 1590198739000
+		},
+		{
+			"id": 9,
+			"taskId": 1,
+			"courseName":"32个java面试",
+			"taskName": "开启新技能",
+			"obtainCredit": 3,
+			"obtainTime": 1590198739000
+		},
+			{
+		"id": 9,
+		"taskId": 1,
+		"courseName":"32个java面试",
+		"taskName": "开启新技能",
+		"obtainCredit": 3,
+		"obtainTime": 1590198739000
+		},
+		{
+			"id": 9,
+			"taskId": 1,
+			"courseName":"32个java面试",
+			"taskName": "开启新技能",
+			"obtainCredit": 3,
+			"obtainTime": 1590198739000
+		},
+		{
+			"id": 9,
+			"taskId": 1,
+			"courseName":"32个java面试",
+			"taskName": "开启新技能",
+			"obtainCredit": 3,
+			"obtainTime": 1590198739000
+		},
+		{
+			"id": 9,
+			"taskId": 1,
+			"courseName":"32个java面试",
+			"taskName": "开启新技能",
+			"obtainCredit": 3,
+			"obtainTime": 1590198739000
+			},
+			{
+				"id": 9,
+				"taskId": 1,
+				"courseName":"32个java面试",
+				"taskName": "开启新技能",
+				"obtainCredit": 3,
+				"obtainTime": 1590198739000
+			},
+				{
+			"id": 9,
+			"taskId": 1,
+			"courseName":"32个java面试",
+			"taskName": "开启新技能",
+			"obtainCredit": 3,
+			"obtainTime": 1590198739000
+			},
+			{
+				"id": 9,
+				"taskId": 1,
+				"courseName":"32个java面试",
+				"taskName": "开启新技能",
+				"obtainCredit": 3,
+				"obtainTime": 1590198739000
+			},
+			{
+				"id": 9,
+				"taskId": 1,
+				"courseName":"32个java面试",
+				"taskName": "开启新技能",
+				"obtainCredit": 3,
+				"obtainTime": 1590198739000
+			},
+			{
+				"id": 9,
+				"taskId": 1,
+				"courseName":"32个java面试",
+				"taskName": "开启新技能",
+				"obtainCredit": 3,
+				"obtainTime": 1590198739000
+				},
+				{
+					"id": 9,
+					"taskId": 1,
+					"courseName":"32个java面试",
+					"taskName": "开启新技能",
+					"obtainCredit": 3,
+					"obtainTime": 1590198739000
+				},
+					{
+				"id": 9,
+				"taskId": 1,
+				"courseName":"32个java面试",
+				"taskName": "开启新技能",
+				"obtainCredit": 3,
+				"obtainTime": 1590198739000
+				},
+				{
+					"id": 9,
+					"taskId": 1,
+					"courseName":"32个java面试",
+					"taskName": "开启新技能",
+					"obtainCredit": 3,
+					"obtainTime": 1590198739000
+				},
+				{
+					"id": 9,
+					"taskId": 1,
+					"courseName":"32个java面试",
+					"taskName": "开启新技能",
+					"obtainCredit": 3,
+					"obtainTime": 1590198739000
+				},
+				{
+					"id": 9,
+					"taskId": 1,
+					"courseName":"32个java面试",
+					"taskName": "开启新技能",
+					"obtainCredit": 3,
+					"obtainTime": 1590198739000
+					},
+					{
+						"id": 9,
+						"taskId": 1,
+						"courseName":"32个java面试",
+						"taskName": "开启新技能",
+						"obtainCredit": 3,
+						"obtainTime": 1590198739000
+					},
+						{
+					"id": 9,
+					"taskId": 1,
+					"courseName":"32个java面试",
+					"taskName": "开启新技能",
+					"obtainCredit": 3,
+					"obtainTime": 1590198739000
+					},
+					{
+						"id": 9,
+						"taskId": 1,
+						"courseName":"32个java面试",
+						"taskName": "开启新技能",
+						"obtainCredit": 3,
+						"obtainTime": 1590198739000
+					},
+					{
+						"id": 9,
+						"taskId": 1,
+						"courseName":"32个java面试",
+						"taskName": "开启新技能",
+						"obtainCredit": 3,
+						"obtainTime": 1590198739000
+					}
+	],
+	"uiMessage": null
+}

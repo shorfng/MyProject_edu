@@ -1,0 +1,11 @@
+/build/mockDir/
+/node_modules/*
+/dist/
+/svg/
+/src/assets/
+/video
+/src/static/
+src/common/modules/**/*.*
+src/common/js/WX/jweixin-1.4.0.js
+**/*main.html
+**/*velocity.js

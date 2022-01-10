@@ -1,0 +1,39 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": [
+    {
+      "id": null,
+      "title": "云原生微服务架构实战精讲",
+      "image": "https://s0.lgstatic.com/i/image3/M01/77/53/CgpOIF5x58SAY2XKAAGnQluQ2sk774.JPG",
+      "url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d64%26sid%3d640-App_banner-0",
+      "shareDesc": null,
+      "displayPosition": null
+    },
+    {
+      "id": null,
+      "title": "Java面试真题及源码 34讲",
+      "image": "https://s0.lgstatic.com/i/image3/M01/77/7F/Cgq2xl5yJ9eAbSuBAACyEzdrqFM235.JPG",
+      "url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d59%26sid%3d590-App_kaiwu_banner-0",
+      "shareDesc": null,
+      "displayPosition": null
+    },
+    {
+      "id": null,
+      "title": "java工程师高薪训练营",
+      "image": "https://s0.lgstatic.com/i/image3/M01/5D/A5/CgpOIF4JprOAc0DnAAB2h7fw2EA81.JPEG",
+      "url": "https://kaiwu.lagou.com/java_architect.html",
+      "shareDesc": null,
+      "displayPosition": null
+    },
+    {
+      "id": null,
+      "title": "测试开发工程师名企直推营",
+      "image": "https://s0.lgstatic.com/i/image3/M01/64/7C/Cgq2xl478QuASJM6AAE65jaA6_o656.JPG",
+      "url": "https://kaiwu.lagou.com/test_engineer.html?latest_utm_source=tab-baner",
+      "shareDesc": null,
+      "displayPosition": null
+    }
+  ],
+  "uiMessage": null
+}

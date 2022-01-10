@@ -1,0 +1,60 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "courseInfo": {
+      "joinSeckill": true,
+      "seckillRemainSeconds": 4,
+      "id": 185,
+      "courseCId": "",
+      "courseName": "社群运营增长与变现 2asdasdasdasd2 讲",
+      "teachers": [
+        {
+          "id": 46,
+          "teacherName": "类延昊（类类）",
+          "position": "前蚂蚁金服运营专家",
+          "teacherHeadPicUrl": "https://s0.lgstatic.com/i/image3/M01/67/FE/Cgq2xl5NEMOAMo-OAAAgS023U7U540.jpg",
+          "description": "<p><span style=\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\"></span></p><p line=\"x7lk\"><span style=\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">骨灰级运营专家，15 年运营老兵。历任蚂蚁金服运营专家、猫扑网运营总监、酷我音乐产品总监、360 手机粉丝运营总监。他擅长经验总结，致力于知识分享，著有畅销书《运营笔记》，长期维护栏目“类类有话说”，同时创立了在线教育平台“栀枝微课”。</span></p><p><br/></p><p><br/></p>"
+        }
+      ],
+      "totalCourseTime": 22,
+      "totalDuration": 300,
+      "sales": 1683,
+      "price": "98",
+      "priceTag": "立即购买",
+      "discounts": "68",
+      "discountsTag": "立即购买",
+      "courseImgUrl": "https://s0.lgstatic.com/i/image3/M01/67/FE/Cgq2xl5NEMOAMo-OAAAgS023U7U540.jpg",
+      "isNew": true,
+      "sellGoodsId": 54,
+      "sellGoodsPriceId": 257,
+      "lgCoinPrice": 68,
+      "isBuy": false,
+      "isFavorite": false,
+      "isNewDes": "限时特惠",
+      "seoDescription": "最近这几年，跟随互联网下半场的来临，如何完成有效的拉新、活跃和变现，成为各家企业的痛点。于是私域流量成为过去一段时间的关键词。\n\n如今我们以更理性的角度去看待私域流量，其实他的本质就是社群运营，而深究社群运营的本质，不过是整个运营链路中的一个工具罢了，只不过这个工具比较好用，效果明显而已。\n\n有些社群运营人员，认为社群是一个闭环模型，把社群里的人和事管好就够了。但如果你每天的工作就是：发早报晚报，扔商品链接，解答群内问题，发起打卡活动，拉人头做裂变，那你可能很快触及职业的天花板。\n\n这个专栏，不会为你讲解那些随处搬移的所谓“经典理论”，只会告诉你那些经历过大浪淘沙后的实战模型；不会为你仅仅拆解案例，并做所谓的“复盘”，只会带你分析案例行为背后的思考；更不会手把手带你只做社群运营，只想让你学完，以后成为一名合格且优秀的运营人。\n\n专栏内容分为四大模块：\n\n①从社群运营模型和项目管理开始，比如社群运营的 CACM－TM 模型，PMP 式社群运营法，让你对社群底层原理有一个深入的认知，掌握全链路运营的必备思维。\n\n②第二个部分是本专栏的重点。会从社群“ CABT”引流模型讲起，帮你实现 0 成本获客。再告诉你 10 大方法提升你的社群活跃，延长社群生命周期。最后为你还原社群变现 6 大路径，提升你的社群下单量。只有理解拉新、活跃和变现三大关键节点，才能理解社群运营在整个运营知识体系下的实战方式。\n\n③第三个部分会带你学会，每个运营人必知必会的数据分析。数据分析是社群人非常薄弱的部分，这个会用 1  表 ＋ 1 工具 ＋ 4 维度，让你掌握数据分析的思维和方法。\n\n④在以上三大模块中会穿插 6 大主流行业社群经典案例（电商、在线教育、母婴等），告诉你同样的运营逻辑，在不同的行业领域是如何应用的。\n\n无论你是社群运营，或者是对社群比较感兴趣的产品、市场同学，这门课都是你值得珍藏的「社群运营秘籍」",
+      "seoKeywords": "拉新,电商,母婴,k12教育,知识付费,短视频,新零售,拉新,活跃,变现,社群变现,社群裂变,社群运营演变,精准种子用户,用户下单,数据分析,获客,社群生命周期,社群活跃,社群矩阵,全链路思考,C-ACM－-MT模型,CBT引流模型",
+      "seoTitle": "社群运营增长与变现 22 讲",
+      "shareTitle": "如何靠社群运营实现营收翻倍",
+      "shareDescription": "运营大v带你破局流量增长与变现",
+      "brief": "让你营收翻倍的社群运营操作法则",
+      "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d45%26sid%3d20-h5Url-0",
+      "courseListImg": "https://s0.lgstatic.com/i/image3/M01/71/C5/Cgq2xl5nJpWAbmqmAAhJklYcdh0974.png",
+      "tag": "专栏",
+      "courseType": 1,
+      "previewFirstField": "共22讲",
+      "previewSecondField": "每周一、三、五更新",
+      "decorateId": 32,
+      "showCatalog": true,
+      "showEvaluation": true,
+      "courseTags": [
+        "共22节",
+        "1683人已购"
+      ],
+      "hasFreeListen": true,
+      "successShowType": "APP",
+      "appDecorateId": 32
+    }
+  },
+  "uiMessage": null
+}

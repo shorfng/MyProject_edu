@@ -1,0 +1,15 @@
+{
+	"state": 1,
+	"message": "操作成功",
+	"content": {
+		"brief": null,
+		"myRanking": null,
+		"hasRanking": false,
+		"examUrl": "https://kaiwu.lagou.com/exam/app/paper?examId=1&channelCode=2",
+		"currentPageNum": 1,
+		"hasNextPage": false,
+		"rankingList": null,
+		"shareInfo": null
+	},
+	"uiMessage": null
+}

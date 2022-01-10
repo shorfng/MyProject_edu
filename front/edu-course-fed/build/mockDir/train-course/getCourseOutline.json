@@ -1,0 +1,241 @@
+{
+    "state": 1,
+    "message": "操作成功",
+    "content": {
+        "bigCourseResult": "SUCCESS",
+        "lastOpenWeekId": 5,
+        "courseStageVos": [
+            {
+                "stageId": 4,
+                "stageName": "Nical 测试课-内容",
+                "stageDesc": "Nical 测试课-内容-介绍",
+                "weekVos": [
+                    {
+                        "weekId": 5,
+                        "weekTag": "Nical 测试课-内容-镖旗ASFDDDDD",
+                        "weekName": "Nical 测试课-内容-名称爱的色放发顺沙发大双方都丰的案发时",
+                        "weekDesc": "Nical 测试课-内容暗室逢灯多多多多多多多多多多多",
+                        "homeworkSubmit": "NOT_SUBMIT",
+                        "studyPercent": 100,
+                        "status": "LOCK",
+                        "classworkLessonId": null,
+                        "classworkDayId": null
+                    },
+                    {
+                        "weekId": 7,
+                        "weekTag": "第二周",
+                        "weekName": "内容暗室逢灯多多多多多多多多多多多内容暗室逢灯多多多多多多多多多多多内容暗室逢灯多多多多多多多多多多多",
+                        "weekDesc": "nodejs损失费撒防守打法艾弗森多多多多多多多多多多多多多多多多多多多多",
+                        "homeworkSubmit": "NOT_SUBMIT",
+                        "studyPercent": 0,
+                        "status": "CLOSE",
+                        "classworkLessonId": null,
+                        "classworkDayId": null
+                    },
+                    {
+                        "weekId": 9,
+                        "weekTag": "第三周",
+                        "weekName": "Node从入门到精通",
+                        "weekDesc": "Node从入门到精通Node从入门到精通Node从入门到精通Node从入门到精通Node从入门到精通",
+                        "homeworkSubmit": "NOT_SUBMIT",
+                        "studyPercent": 0,
+                        "status": "CLOSE",
+                        "classworkLessonId": null,
+                        "classworkDayId": null
+                    },
+                    {
+                        "weekId": 11,
+                        "weekTag": "第四周",
+                        "weekName": "node从入门到精通",
+                        "weekDesc": "学习如何把人猪猪发送到电风扇",
+                        "homeworkSubmit": "NOT_SUBMIT",
+                        "studyPercent": 0,
+                        "status": "CLOSE",
+                        "classworkLessonId": null,
+                        "classworkDayId": null
+                    },
+                    {
+                        "weekId": 13,
+                        "weekTag": "第五周",
+                        "weekName": "Node从入门到精通",
+                        "weekDesc": "是大法师艾弗森多多多多多多多多多多多多多多多多多多多多",
+                        "homeworkSubmit": "NOT_SUBMIT",
+                        "studyPercent": 0,
+                        "status": "CLOSE",
+                        "classworkLessonId": null,
+                        "classworkDayId": null
+                    }
+                ]
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            },
+            {
+                "stageId": 14,
+                "stageName": "第二阶段",
+                "stageDesc": "JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通JS从入门到精通",
+                "weekVos": null
+            },
+            {
+                "stageId": 18,
+                "stageName": "第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "stageDesc": "第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段第三阶段",
+                "weekVos": null
+            }
+        ]
+    },
+    "uiMessage": null
+}

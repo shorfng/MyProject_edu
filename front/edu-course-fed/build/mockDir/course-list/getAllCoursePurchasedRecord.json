@@ -1,0 +1,135 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "allCoursePurchasedRecord": [
+      {
+        "courseType": 2,
+        "title": "专栏课程",
+        "bigCourseRecordList": null,
+        "courseRecordList": [
+          {
+            "id": 1,
+            "name": "《32个Java面试必考点》-专栏课程",
+            "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d1%26sid%3d3-App_kaiwu_course-0",
+            "lastLearnLessonName": "开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架",
+            "image": "http://www.lgstatic.com/i/audio1/M00/06/6B/CgHIk111_jOABsC_AAF8gpDF-74571.png",
+            "updateProgress": "共12讲 / 已更新至第2讲",
+            "updateTips": "3更新",
+            "lessonUpdateNum": 3,
+            "isEnterpriseCourse":1
+          },
+          {
+            "id": 2,
+            "name": "《32个Java面试必考点》-专栏课程",
+            "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d1%26sid%3d3-App_kaiwu_course-0",
+            "lastLearnLessonName": "开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架",
+            "image": "http://www.lgstatic.com/i/audio1/M00/06/6B/CgHIk111_jOABsC_AAF8gpDF-74571.png",
+            "updateProgress": "共12讲 / 已更新至第2讲",
+            "updateTips": "3更新",
+            "lessonUpdateNum": 3,
+            "isEnterpriseCourse":1
+          },    {
+            "id": 3,
+            "name": "《32个Java面试必考点》-专栏课程",
+            "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d1%26sid%3d3-App_kaiwu_course-0",
+            "lastLearnLessonName": "开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架",
+            "image": "http://www.lgstatic.com/i/audio1/M00/06/6B/CgHIk111_jOABsC_AAF8gpDF-74571.png",
+            "updateProgress": "共12讲 / 已更新至第2讲",
+            "updateTips": "3更新",
+            "lessonUpdateNum": 3,
+            "isEnterpriseCourse":1
+          },    {
+            "id": 4,
+            "name": "《32个Java面试必考点》-专栏课程",
+            "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d1%26sid%3d3-App_kaiwu_course-0",
+            "lastLearnLessonName": "开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架",
+            "image": "http://www.lgstatic.com/i/audio1/M00/06/6B/CgHIk111_jOABsC_AAF8gpDF-74571.png",
+            "updateProgress": "共12讲 / 已更新至第2讲",
+            "updateTips": "3更新",
+            "lessonUpdateNum": 3,
+            "isEnterpriseCourse":1
+          }
+        ]
+      },
+      {
+        "courseType": 1,
+        "title": "训练营",
+        "bigCourseRecordList": [
+          {
+            "id": 1,
+            "name": "《32个Java面试必考点》",
+            "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d1%26sid%3d3-App_kaiwu_course-0",
+            "lastLearnLessonName": "开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架",
+            "image": "http://www.lgstatic.com/i/audio1/M00/06/6B/CgHIk111_jOABsC_AAF8gpDF-74571.png",
+            "updateProgress": "共12讲 / 已更新至第2讲",
+            "updateTips": "3更新",
+            "lessonUpdateNum": 3
+          }
+        ],
+        "courseRecordList": [
+          {
+            "id": 1,
+            "name": "《32个Java面试必考点》",
+            "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d1%26sid%3d3-App_kaiwu_course-0",
+            "lastLearnLessonName": "开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架",
+            "image": "http://www.lgstatic.com/i/audio1/M00/06/6B/CgHIk111_jOABsC_AAF8gpDF-74571.png",
+            "updateProgress": "共12讲 / 已更新至第2讲",
+            "updateTips": "3更新",
+            "lessonUpdateNum": 3
+          }
+        ]
+      },
+      {
+        "courseType": 3,
+        "title": "视频课",
+        "bigCourseRecordList": null,
+        "courseRecordList": [
+          {
+            "id": 1,
+            "name": "《32个Java面试必考点》-视频课程1",
+            "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d1%26sid%3d3-App_kaiwu_course-0",
+            "lastLearnLessonName": "开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架",
+            "image": "http://www.lgstatic.com/i/audio1/M00/06/6B/CgHIk111_jOABsC_AAF8gpDF-74571.png",
+            "updateProgress": "共12讲 / 已更新至第2讲",
+            "updateTips": "3更新",
+            "lessonUpdateNum": 3,
+            "isEnterpriseCourse":1
+          },
+          {
+            "id": 2,
+            "name": "《32个Java面试必考点》-视频课程2",
+            "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d1%26sid%3d3-App_kaiwu_course-0",
+            "lastLearnLessonName": "开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架",
+            "image": "http://www.lgstatic.com/i/audio1/M00/06/6B/CgHIk111_jOABsC_AAF8gpDF-74571.png",
+            "updateProgress": "共12讲 / 已更新至第2讲",
+            "updateTips": "3更新",
+            "lessonUpdateNum": 3
+          },
+          {
+            "id": 3,
+            "name": "《32个Java面试必考点》-视频课程3",
+            "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d1%26sid%3d3-App_kaiwu_course-0",
+            "lastLearnLessonName": "开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架",
+            "image": "http://www.lgstatic.com/i/audio1/M00/06/6B/CgHIk111_jOABsC_AAF8gpDF-74571.png",
+            "updateProgress": "共12讲 / 已更新至第2讲",
+            "updateTips": "3更新",
+            "lessonUpdateNum": 3
+          },
+          {
+            "id": 4,
+            "name": "《32个Java面试必考点》-视频课程4",
+            "h5Url": "https://www.lagou.com/center/login?forward=https%3a%2f%2fkaiwu.lagou.com%2fcourse%2fcourseInfo.htm%3fcourseId%3d1%26sid%3d3-App_kaiwu_course-0",
+            "lastLearnLessonName": "开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架开篇：建立年薪50万的能力框架",
+            "image": "http://www.lgstatic.com/i/audio1/M00/06/6B/CgHIk111_jOABsC_AAF8gpDF-74571.png",
+            "updateProgress": "共12讲 / 已更新至第2讲",
+            "updateTips": "3更新",
+            "lessonUpdateNum": 3
+          }
+        ]
+      }
+    ],
+    "courseOrderSynEntry": null
+  },
+  "uiMessage": null
+}

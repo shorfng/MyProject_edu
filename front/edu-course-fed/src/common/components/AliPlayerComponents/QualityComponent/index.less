@@ -1,0 +1,61 @@
+.player-hidden {
+  display: none !important;
+}
+
+.quality-components {
+  float: right;
+  color: #fff;
+  height: 100%;
+  position: relative;
+  box-sizing: border-box;
+  padding-top: 4PX;
+}
+
+.current-quality {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  width: 70PX;
+  cursor: pointer;
+}
+
+.quality-list {
+  position: absolute;
+  bottom: 46PX;
+  display: none;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  li {
+    text-align: center;
+    width: 70PX;
+    line-height: 30PX;
+    background-color: rgba(0, 0, 0, .6);
+    cursor: pointer;
+    &.current {
+      color: #00b38a;
+    }
+    & + li {
+      border-top: 1PX solid rgba(78, 78, 78, 0.3);
+    }
+    &:hover {
+      background-color: rgba(0, 0, 0, .5);
+    };
+  }
+}
+
+.quality-modal {
+  position: absolute;
+  bottom: 20%;
+  left:  5%;
+  background-color: rgba(0, 0, 0, .6);
+  border-radius: 5PX;
+  color: #fff;
+  padding: 10PX 15PX;
+  font-size: 14PX;
+  display: none;
+  span.current-quality-tag {
+    color: #00b38a;
+  }
+}

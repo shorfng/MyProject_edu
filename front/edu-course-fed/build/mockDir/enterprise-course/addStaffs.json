@@ -1,0 +1,9 @@
+{
+    "content": {
+      "code": 1001,
+      "message": "[{\"noticeMsg\":\"该手机号员工已在学习中,阿什顿就撒谎的卡上就好\",\"phone\":\"18728117771\"}]"
+    },
+    "message": "string",
+    "state": 1,
+    "uiMessage": "string"
+}

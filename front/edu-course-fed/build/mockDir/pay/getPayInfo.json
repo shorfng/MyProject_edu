@@ -1,0 +1,24 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "goodsOrderNo": "UNITTP202006272239253223Mvdbe883",
+    "goodsName": "腾讯敏捷项目管理实战",
+    "price": 28,
+    "discount": 28,
+    "pictureUrl": null,
+    "userCouponList": null,
+    "processStrategyType": 1,
+    "supportChannels": [
+      {
+        "channelCode": 1,
+        "creditInfos": null
+      },
+      {
+        "channelCode": 2,
+        "creditInfos": null
+      }
+    ]
+  },
+  "uiMessage": null
+}

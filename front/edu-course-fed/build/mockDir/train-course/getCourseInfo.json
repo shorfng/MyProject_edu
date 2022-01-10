@@ -1,0 +1,29 @@
+{
+    "state": 1,
+    "message": "操作成功",
+    "content": {
+        "bigCourseResult": "SUCCESS",
+        "coverImgUrl": "https://www.lgstatic.com/i/audio1/M00/06/BC/CgHIk135nwiAHoOcAACVnEVCfbo550.png",
+        "studyPercent": 80,
+        "courseExpire": "2022年06月05日",
+        "courseStart": "2019年12月18日",
+        "lastWatchLessonName": "第一课时",
+        "lastWatchWeekId": 2,
+        "courseStatus": "COURSE_STUDYING",
+        "status": "NORMAL",
+        "pauseTime": 1577203200000,
+        "restoreTime": 1577376000000,
+        "courseName": "apppafsa",
+        "bigCourseLiveNotify": {
+          "dayId": 2,
+          "id": 12,
+          "liveName": "今天我们不聊技术，姚半仙带你一起今天我们不聊技术，姚半仙带你一起今天我们不聊技术，姚半仙带你一起今天我们不聊技术，姚半仙带你一起…",
+          "liveStartTime": 1579017600000,
+          "stageId": 2,
+          "status": "TEASER",
+          "statusShowName": "直播解释。。。",
+          "weekId": 3
+        }
+    },
+    "uiMessage": null
+}

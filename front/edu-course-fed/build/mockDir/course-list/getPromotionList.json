@@ -1,0 +1,55 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "sortNum": 1,
+    "promotionCardList": [
+      {
+        "cardTitle": "广告banner",
+        "sortNum": 1,
+        "type": 1,
+        "bannerList": [
+          {
+            "image": "https://www.lgstatic.com/i/image2/M00/02/92/CgHIk14YRKGAZFwZAABEFFRZwuY132.JPG",
+            "href": "https://www.lagou.com/center/login?forward=https%3A%2F%2Fkaiwu.lagou.com%2Fexam%2Fapp%2Fcover%3FexamId%3D1%26channelCode%3D2%26fromOrderId%3D",
+            "title": "2121",
+            "id": null,
+            "brief": null
+          }
+        ],
+        "activityList":[
+          {
+            "image": "https://www.lgstatic.com/i/audio1/M00/07/FB/CgHIk17Z6GSAB5ZFAAD4OVlTgbk574.png",
+            "href": null,
+            "title": "1元购入口",
+            "id": 1,
+            "brief": "便宜买课活动"
+          }
+        ]
+      },
+      {
+        "cardTitle": "活动推广",
+        "sortNum": 2,
+        "type": 2,
+        "bannerList": null,
+        "activityList": [
+          {
+            "image": "https://www.lgstatic.com/i/audio1/M00/07/FB/CgHIk17Z6GSAB5ZFAAD4OVlTgbk574.png",
+            "href": null,
+            "title": "1元购入口",
+            "id": 1,
+            "brief": "便宜买课活动"
+          },
+          {
+            "image": "https://www.lgstatic.com/i/audio1/M00/07/FB/CgHIk17Z6GSAB5ZFAAD4OVlTgbk574.png",
+            "href": null,
+            "title": "1元购入口",
+            "id": 1,
+            "brief": "便宜买课活动"
+          }
+        ]
+      }
+    ]
+  },
+  "uiMessage": null
+}

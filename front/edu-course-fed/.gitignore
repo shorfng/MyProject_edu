@@ -1,0 +1,20 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Editor directories and files
+.idea
+.vscode
+.gitconfig
+.eslintcache
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+/src/common/icon-font/demo-files/
+/src/common/icon-font/demo.html
+.history

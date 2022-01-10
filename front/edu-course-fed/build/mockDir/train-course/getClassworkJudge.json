@@ -1,0 +1,11 @@
+{
+  "content": {
+    "judge": "老师点评 老师点评 老师点评 老师点评 老师点评 老师点评 老师点评",
+    "judgeMediaId": 123456,
+    "score": 59,
+    "status": "UNSUBMIT"
+  },
+  "message": "string",
+  "state": 0,
+  "uiMessage": "string"
+}

@@ -1,0 +1,48 @@
+<div id="root"></div>
+<!-- 如需在IE8、9浏览器中初始化播放器，浏览器需支持Flash并在页面中引入 -->
+<!--[if lt IE 9]>
+<script src="//imgcache.qq.com/open/qcloud/video/tcplayer/ie8/videojs-ie8.js"></script>
+<![endif]-->
+
+
+<script type="text/javascript">
+    window.courseInfo = {};
+    window.isLogin = false;
+    window.sellGoodsPriceId = -1;
+    window.orderToken = '$!{orderToken}';
+    window.orderToken = '';
+    window.userInfo = {};
+    window.enterNewPage = false;
+    window.activityButtonInfo = null;
+
+    function getUrlParam(paraName) {
+        var url = document.location.search;
+        var arrObj = url.split("?");
+
+        if (arrObj.length > 1) {
+            var arrPara = arrObj[1].split("&");
+            var arr;
+
+            for (var i = 0; i < arrPara.length; i++) {
+                arr = arrPara[i].split("=");
+
+                if (arr != null && arr[0] == paraName) {
+                    return arr[1];
+                }
+            }
+            return "";
+        }
+        else {
+            return "";
+        }
+    }
+
+    var courseId = getUrlParam('courseId')
+    window.courseInfo.id = courseId;
+
+</script>
+<!--<script src="//cdn.bootcss.com/eruda/1.5.2/eruda.min.js"></script>-->
+<!--<script>eruda.init();</script>-->
+
+
+

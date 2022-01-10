@@ -1,0 +1,16 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "showDistributionButton": true,
+    "distributionBaseInfoVo": {
+      "courseName": "《32个Java面试必考点》",
+      "brief": "JAVA面试精讲：32个知识点助你拿Offer",
+      "shareImage": "//www.lgstatic.com/i/audio1/M00/02/17/CgHIk1xhVOuAQPv5AAAnFDZqOB4814.png",
+      "url": "https://appccrwmybx6232.h5.xiaoeknow.com/inviteCard/eyJwYXltZW50X3R5cGUiOjMsInByb2R1Y3RfaWQiOiIxMjMzNDUzMzMzMyIsInJlc291cmNlX2lkIjoiIiwicmVzb3VyY2VfdHlwZSI6Nn0=?show_retrun_btn=1",
+      "brokerage": "205.00"
+    }
+  },
+  "uiMessage": null
+}
+

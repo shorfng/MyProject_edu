@@ -1,0 +1,6 @@
+{
+    "content": "你有20元券，即将过期",
+    "message": "有券,且符合使用条件",
+    "state": 1,
+    "uiMessage": "string"
+  }

@@ -1,0 +1,496 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "courseList": [
+      {
+        "activityName": "新品预售",
+        "courseUrl": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=7&sid=30-aggregation-0",
+        "topNCourseLesson": [
+          {
+            "id": 71,
+            "courseId": 7,
+            "sectionId": 7,
+            "theme": "第1章 Dubbo——高性能RPC通信框架",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "",
+            "tencentFileId": ""
+          },
+          {
+            "id": 72,
+            "courseId": 7,
+            "sectionId": 7,
+            "theme": "第2章 开发第一款Dubbo应用程序",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "",
+            "tencentFileId": ""
+          },
+          {
+            "id": 73,
+            "courseId": 7,
+            "sectionId": 7,
+            "theme": "第3章 Dubbo注册中心",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "",
+            "tencentFileId": ""
+          },
+          {
+            "id": 74,
+            "courseId": 7,
+            "sectionId": 7,
+            "theme": "第4章 Dubbo扩展点加载机制",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "",
+            "tencentFileId": ""
+          }
+        ],
+        "id": 7,
+        "courseCId": "",
+        "courseName": "21天深入理解 Apache Dubbo",
+        "teachers": [
+          {
+            "id": 8,
+            "teacherName": "尚宗海（诣极）&林琳（景竹）",
+            "position": "",
+            "teacherHeadPicUrl": "https://www.lgstatic.com/i/image2/M01/7F/84/CgoB5l1mLHyADMLQAAF080tcCrA030.png",
+            "description": "尚宗海（诣极），蚂蚁金服中间件资深架构师，Apache Dubbo PMC，Dubbo 框架技术负责人，长期活跃在 Dubbo 社区。<br/>\r\n林琳（景竹），蚂蚁金服工程平台资深架构师。"
+          }
+        ],
+        "sales": 474,
+        "pruchasedCount": 474,
+        "price": "198",
+        "discounts": "98",
+        "courseImgUrl": "https://www.lgstatic.com/i/image2/M01/7F/84/CgoB5l1mLGSAHl4QAADrQutiOmw294.png",
+        "sellGoodsId": 14,
+        "sellGoodsPriceId": 28,
+        "lgCoinPrice": 98,
+        "isBuy": true,
+        "brief": "Dubbo 技术负责人带你系统化学习",
+        "courseType": 2,
+        "courseAccompanyImgUrl": "https://www.lgstatic.com/i/image2/M01/7F/A3/CgotOV1mK_OAF-DYAAfGM-JGCjg637.png"
+      },
+      {
+        "courseUrl": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=6&sid=30-aggregation-0",
+        "topNCourseLesson": [
+          {
+            "id": 59,
+            "courseId": 6,
+            "sectionId": 6,
+            "theme": "开篇寄语：缓存，你真的用对了吗？",
+            "duration": 0,
+            "isFree": true,
+            "fileId": "5285890792280884411",
+            "tencentFileId": "5285890792280884411"
+          },
+          {
+            "id": 60,
+            "courseId": 6,
+            "sectionId": 6,
+            "theme": "第01讲：缓存的原理、引入及设计",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "5285890792529391942",
+            "tencentFileId": "5285890792529391942"
+          },
+          {
+            "id": 61,
+            "courseId": 6,
+            "sectionId": 6,
+            "theme": "第02讲：7大缓存经典问题",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "5285890792886934196",
+            "tencentFileId": "5285890792886934196"
+          },
+          {
+            "id": 62,
+            "courseId": 6,
+            "sectionId": 6,
+            "theme": "第03讲：Memcached的原理及架构剖析",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "5285890793125930800",
+            "tencentFileId": "5285890793125930800"
+          }
+        ],
+        "id": 6,
+        "courseCId": "43",
+        "courseName": "300分钟吃透分布式缓存",
+        "teachers": [
+          {
+            "id": 7,
+            "teacherName": "陈波",
+            "position": "新浪微博平台架构技术专家",
+            "teacherHeadPicUrl": "//www.lgstatic.com/i/image2/M01/6D/54/CgoB5l1BYKOALUtsAAAyPyU8GWI430.png",
+            "description": "微博平台缓存从0到1主要工程师之一，曾参与撰写技术畅销书《深入分布式缓存》。<br/><br/>  2008年加入新浪，2009年起着手微博 Feed 平台系统的研发及架构工作，深度参与了微博若干版本的所有业务的开发和架构改进。<br/><br/>从2013年至今，他负责微博平台基础架构相关的研发工作，经历了新浪微博从起步到月活数亿用户的大型互联网系统的技术演进过程。"
+          }
+        ],
+        "sales": 1629,
+        "pruchasedCount": "1629",
+        "price": "",
+        "discounts": "88",
+        "courseImgUrl": "https://www.lgstatic.com/i/image2/M01/6D/74/CgotOV1BYI6AP3moAAFzStHqQpQ614.png",
+        "sellGoodsId": 10,
+        "sellGoodsPriceId": 26,
+        "lgCoinPrice": 88,
+        "isBuy": false,
+        "brief": "搞懂支撑百万QPS的核心技术秘诀",
+        "courseType": 1
+      },
+      {
+        "activityName": "折扣优惠",
+        "courseUrl": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=5&sid=30-aggregation-0",
+        "topNCourseLesson": [
+          {
+            "id": 47,
+            "courseId": 5,
+            "sectionId": 5,
+            "theme": "开篇寄语：建立完整的MySQL知识体系",
+            "duration": 0,
+            "isFree": true,
+            "fileId": "5285890791390518109",
+            "tencentFileId": "5285890791390518109"
+          },
+          {
+            "id": 48,
+            "courseId": 5,
+            "sectionId": 5,
+            "theme": "第01讲：MySQL体系结构与存储引擎",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "5285890791589496160",
+            "tencentFileId": "5285890791589496160"
+          },
+          {
+            "id": 49,
+            "courseId": 5,
+            "sectionId": 5,
+            "theme": "第02讲：深入理解事务与锁机制（上）",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "5285890792000511480",
+            "tencentFileId": "5285890792000511480"
+          },
+          {
+            "id": 50,
+            "courseId": 5,
+            "sectionId": 5,
+            "theme": "第02讲：深入理解事务与锁机制（下）",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "5285890792001931258",
+            "tencentFileId": "5285890792001931258"
+          }
+        ],
+        "id": 5,
+        "courseCId": "41",
+        "courseName": "高性能MySQL实战",
+        "teachers": [
+          {
+            "id": 5,
+            "teacherName": "周彦伟",
+            "position": "极数云舟 CEO",
+            "teacherHeadPicUrl": "//www.lgstatic.com/i/image2/M01/5E/C1/CgotOV0m1E6AeNB0AAAsvkSCdX4945.png",
+            "description": "从事数据库开发和运维工作近15年，曾担任人人网数据库主管和去哪儿网数据库总监，在数据库的架构设计、性能调优、大规模数据库集群运维等方面积累了丰富的实战经验。<br/>\r\n2017年创立极数云舟，现任CEO，致力于企业级云原生数据库ArkDB的产品研发和相关企业级数据库解决方案的架构和实施。<br/>\r\n他著有技术畅销书《MySQL运维内参》，另有译著《MySQL 8 Cookbook》中文版。<br/>\r\n同时，他还担任Oracle ACE Director，及中国计算机行业协会开源数据库专业委员会会长。"
+          },
+          {
+            "id": 6,
+            "teacherName": "许子文",
+            "position": "极数云舟 项目总监",
+            "teacherHeadPicUrl": "//www.lgstatic.com/i/image2/M01/5E/A1/CgoB5l0m1GmAeGvrAACKyWLSiM8542.png",
+            "description": "现任极数云舟项目总监，先后就职于达梦数据库、去哪儿网。<br/>\r\n在去哪儿网时，负责整个去哪儿网的支付和金融体系数据库架构设计、运维管理和性能优化"
+          }
+        ],
+        "sales": 2290,
+        "pruchasedCount": "2290",
+        "price": "198",
+        "discounts": "88",
+        "courseImgUrl": "https://www.lgstatic.com/i/image2/M01/5E/C2/CgotOV0m1IKABFQUAAEiqe8vqE8951.png",
+        "sellGoodsId": 9,
+        "sellGoodsPriceId": 25,
+        "lgCoinPrice": 88,
+        "isBuy": false,
+        "brief": "快速掌握MySQL要领，支撑互联网高并发请求",
+        "courseType": 1
+      },
+      {
+        "courseUrl": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=3&sid=30-aggregation-0",
+        "topNCourseLesson": [
+          {
+            "id": 28,
+            "courseId": 3,
+            "sectionId": 3,
+            "theme": "开篇寄语：算法功底决定Offer质量",
+            "duration": 0,
+            "isFree": true,
+            "fileId": "5285890790515051854",
+            "tencentFileId": "5285890790515051854"
+          },
+          {
+            "id": 29,
+            "courseId": 3,
+            "sectionId": 3,
+            "theme": "第01讲：常用数据结构",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "5285890791146854284",
+            "tencentFileId": "5285890791146854284"
+          },
+          {
+            "id": 30,
+            "courseId": 3,
+            "sectionId": 3,
+            "theme": "第02讲：高级数据结构",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "5285890791096284021",
+            "tencentFileId": "5285890791096284021"
+          },
+          {
+            "id": 31,
+            "courseId": 3,
+            "sectionId": 3,
+            "theme": "第03讲：15分钟搞懂排序",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "5285890791358502423",
+            "tencentFileId": "5285890791358502423"
+          }
+        ],
+        "id": 3,
+        "courseCId": "36",
+        "courseName": "300分钟搞定算法面试",
+        "teachers": [
+          {
+            "id": 3,
+            "teacherName": "苏勇",
+            "position": "Google 资深软件工程师",
+            "teacherHeadPicUrl": "https://www.lgstatic.com/i/image2/M01/4B/EE/CgoB5l0J77GAYcxRAAAo6dlmJ6s945.png",
+            "description": "现负责 Google Maps 产品研发工作，并参与多个开源软件的开发和维护。<br/>\r\n作为力扣（LeetCode）骨灰级用户，苏老师曾贡献超过 200套算法题目的解题方案，获得很多技术同行的赞同和分享，另外在知网发表过多篇算法相关论文。<br/>\r\n作为 Google面试官，他负责技术候选人的考察、设计面试考题与评分标准等重要环节，拥有大量技术人才选拔经验。<br/>"
+          }
+        ],
+        "sales": 5230,
+        "pruchasedCount": "2w",
+        "price": "198",
+        "discounts": "88",
+        "courseImgUrl": "https://www.lgstatic.com/i/image2/M01/4C/0E/CgotOV0J75aANGHJAAE_5OYFEIc603.png",
+        "sellGoodsId": 7,
+        "sellGoodsPriceId": 22,
+        "lgCoinPrice": 88,
+        "isBuy": false,
+        "brief": "力扣（LeetCode）骨灰级题解贡献者刷题笔记首次公开",
+        "courseType": 1
+      },
+      {
+        "courseUrl": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=2&sid=30-aggregation-0",
+        "topNCourseLesson": [
+          {
+            "id": 16,
+            "courseId": 2,
+            "sectionId": 2,
+            "theme": "开篇词：7分钟Get技术人进阶技巧",
+            "duration": 12,
+            "isFree": true,
+            "fileId": "5285890789915727093",
+            "tencentFileId": "5285890789915727093"
+          },
+          {
+            "id": 17,
+            "courseId": 2,
+            "sectionId": 2,
+            "theme": "第01讲：大型架构的演进之路",
+            "duration": 12,
+            "isFree": false,
+            "fileId": "5285890789592200124",
+            "tencentFileId": "5285890789592200124"
+          },
+          {
+            "id": 18,
+            "courseId": 2,
+            "sectionId": 2,
+            "theme": "第02讲（上）：分布式缓存",
+            "duration": 12,
+            "isFree": false,
+            "fileId": "5285890789700464734",
+            "tencentFileId": "5285890789700464734"
+          },
+          {
+            "id": 19,
+            "courseId": 2,
+            "sectionId": 2,
+            "theme": "第02讲（下）：分布式缓存",
+            "duration": 12,
+            "isFree": false,
+            "fileId": "5285890789700453566",
+            "tencentFileId": "5285890789700453566"
+          }
+        ],
+        "id": 2,
+        "courseCId": "34",
+        "courseName": "高并发架构的36项修炼",
+        "teachers": [
+          {
+            "id": 2,
+            "teacherName": "李智慧",
+            "position": "前阿里巴巴技术专家",
+            "teacherHeadPicUrl": "//www.lgstatic.com/i/image2/M01/30/2F/CgoB5lzadLaAHrziAAAzRAtUMJk321.png",
+            "description": "他拥有20余年软件开发与架构经验，曾任阿里巴巴技术专家、intel大数据架构师，著有技术畅销书《大型网站技术架构：核心原理与案例分析》，更是各大技术峰会的常邀分享嘉宾<br/>他曾设计开发阿里巴巴分布式存储系统Doris、阿里巴巴印度站，参与Apache Spark开源框架的开发，对架构代码进行多处优化;他拥有5项分布式系统发明专利，在互联网架构和大数据方面具有丰富的实战经验。<br/>"
+          }
+        ],
+        "sales": 5364,
+        "pruchasedCount": "3w",
+        "price": "198",
+        "discounts": "108",
+        "courseImgUrl": "https://www.lgstatic.com/i/image2/M01/30/30/CgoB5lzadQ6AClInAAFSj5UXboM051.png",
+        "sellGoodsId": 6,
+        "sellGoodsPriceId": 18,
+        "lgCoinPrice": 108,
+        "isBuy": false,
+        "brief": "掌握架构设计规律和核心技术，早日成为架构师",
+        "courseType": 1
+      },
+      {
+        "courseUrl": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=1&sid=30-aggregation-0",
+        "topNCourseLesson": [
+          {
+            "id": 1,
+            "courseId": 1,
+            "sectionId": 1,
+            "theme": "开篇：建立年薪50万的能力框架",
+            "duration": 10,
+            "isFree": true,
+            "fileId": "5285890785768558241",
+            "tencentFileId": "5285890785768558241"
+          },
+          {
+            "id": 2,
+            "courseId": 1,
+            "sectionId": 1,
+            "theme": "第01讲：技术人职业发展路径",
+            "duration": 11,
+            "isFree": false,
+            "fileId": "5285890785777554870",
+            "tencentFileId": "5285890785777554870"
+          },
+          {
+            "id": 3,
+            "courseId": 1,
+            "sectionId": 1,
+            "theme": "第02讲（上）：操作系统与计算机网络",
+            "duration": 12,
+            "isFree": false,
+            "fileId": "5285890785768503874",
+            "tencentFileId": "5285890785768503874"
+          },
+          {
+            "id": 4,
+            "courseId": 1,
+            "sectionId": 1,
+            "theme": "第02讲（下）：Java语言特性与设计模式",
+            "duration": 12,
+            "isFree": false,
+            "fileId": "5285890785768679445",
+            "tencentFileId": "5285890785768679445"
+          }
+        ],
+        "id": 1,
+        "courseCId": "32",
+        "courseName": "32个Java面试必考点",
+        "teachers": [
+          {
+            "id": 1,
+            "teacherName": "张雷",
+            "position": "新浪微博资深技术专家",
+            "teacherHeadPicUrl": "//www.lgstatic.com/i/image2/M01/DA/6C/CgoB5lxlKmqAKr09AABFTsc-Ibw966.png",
+            "description": "专注于高可用架构、微服务治理、中间件开发等方向，Motan开源框架技术负责人。<br/>2013年加入新浪微博，作为核心技术成员参与微博服务化、混合云等多个重点项目，目前主要负责weibo mesh项目的规划设计与推进。同时作为新浪微博平台的技术评审官，也负责新员工的转正评审工作，对技术人才的选拔及考核颇有心得。<br/>曾在ArchSummit、WOT、GIAC等顶级会议上进行过高可用架构、微服务实践等方面的分享。<br/>"
+          }
+        ],
+        "sales": 15126,
+        "pruchasedCount": "1.5w",
+        "pruchasedCount": "1w",
+        "price": "198",
+        "discounts": "108",
+        "courseImgUrl": "https://www.lgstatic.com/i/image2/M01/E2/D6/CgoB5lxvfyiAFxlDAABTDT0-k-4488.png",
+        "sellGoodsId": 11,
+        "sellGoodsPriceId": 14,
+        "lgCoinPrice": 108,
+        "isBuy": false,
+        "brief": "知道这些加分项，面试通过率翻倍",
+        "courseType": 1
+      },
+      {
+        "courseUrl": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=4&sid=30-aggregation-0",
+        "topNCourseLesson": [
+          {
+            "id": 41,
+            "courseId": 4,
+            "sectionId": 4,
+            "theme": "第01讲：技术岗薪资对比+供需分析",
+            "duration": 0,
+            "isFree": true,
+            "fileId": "5285890791106127137",
+            "tencentFileId": "5285890791106127137"
+          },
+          {
+            "id": 42,
+            "courseId": 4,
+            "sectionId": 4,
+            "theme": "第02讲：如何挑选命中率高的好工作？",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "5285890791106212920",
+            "tencentFileId": "5285890791106212920"
+          },
+          {
+            "id": 43,
+            "courseId": 4,
+            "sectionId": 4,
+            "theme": "第03讲：诊断：简历为什么被忽视？",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "5285890791135273346",
+            "tencentFileId": "5285890791135273346"
+          },
+          {
+            "id": 44,
+            "courseId": 4,
+            "sectionId": 4,
+            "theme": "第04讲：技术简历应该怎么写、怎么投？",
+            "duration": 0,
+            "isFree": false,
+            "fileId": "5285890791136107970",
+            "tencentFileId": "5285890791136107970"
+          }
+        ],
+        "id": 4,
+        "courseCId": "39",
+        "courseName": "如何高效准备简历和面试",
+        "teachers": [
+          {
+            "id": 4,
+            "teacherName": "吴文娟",
+            "position": "拉勾金牌职业规划师",
+            "teacherHeadPicUrl": "//www.lgstatic.com/i/image2/M01/58/FE/CgoB5l0dyrCAf5wLAAAHQDj-N48973.jpg",
+            "description": "拥有十年工作经验，2015年加入拉勾，与800余家互联网企业HR人脉维持深度合作和交流，深谙互联网求职法则。<br/>\r\n身为拉勾职业规划师，她多次为清北人师等高校毕业生做巡回求职指导，并开设10余场求职经验分享直播，累计为超过1万名职场人、毕业生提供面试、职业规划咨询，深受互联网从业者欢迎"
+          }
+        ],
+        "sales": 3934,
+        "pruchasedCount": "3934",
+        "price": "68",
+        "discounts": "39",
+        "courseImgUrl": "https://www.lgstatic.com/i/image2/M01/59/1E/CgotOV0dyp2AdpBsAAAdPpAunh0765.jpg",
+        "sellGoodsId": 13,
+        "sellGoodsPriceId": 27,
+        "lgCoinPrice": 39,
+        "isBuy": false,
+        "brief": "避开易犯的问题和误区，给你求职“解药”",
+        "courseType": 1
+      }
+    ]
+  },
+  "uiMessage": null
+}

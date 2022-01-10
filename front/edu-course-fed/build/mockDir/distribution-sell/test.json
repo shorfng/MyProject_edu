@@ -1,0 +1,12 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "data": {
+      "imgUrl":"https://sjbz-fd.zol-img.com.cn/t_s320x510c5/g5/M00/01/04/ChMkJl3u9juIcsCxAAdVNvEykr4AAvqZgFUH3sAB1VO096.jpg",
+      "name":"test123",
+      "qrCode":"www.baidu.com"
+    },
+    "rows": []
+  }
+}

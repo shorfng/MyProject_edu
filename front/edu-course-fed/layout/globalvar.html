@@ -1,0 +1,11 @@
+<script>
+    // 全局token变量，防CSRF，防重复提交
+    window.X_Anti_Forge_Code = '$!{submitCode}';
+    window.X_Anti_Forge_Token = '$!{submitToken}';
+    var mds = {
+        userInfo: {
+            shortName: "$!{shortName}",
+        }
+    }
+    window.mds = mds;
+</script>

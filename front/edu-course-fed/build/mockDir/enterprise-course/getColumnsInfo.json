@@ -1,0 +1,180 @@
+{
+    "content": {
+      "beginPageIndex": 0,
+      "currentPage": 0,
+      "endPageIndex": 0,
+      "lastPage": 0,
+      "nextPage": 0,
+      "pageCount": 100,
+      "pageSize": 0,
+      "recordCount": 0,
+      "recordList": [
+        {
+          "brief": "stringstringstringstringstringstringstringstringstringstringstringstringstringstringstringstringstringstringstringstringstringstringstringstring",
+          "courseId": 0,
+          "courseImgUrl": "https://www.lgstatic.com/i/image2/M01/51/7E/CgoB5l0S2NOAQGP5AAGDoZCWy_A423.JPG",
+          "courseName": "string",
+          "courseType": "string",
+          "courseUrl": "string",
+          "decorateId": 0,
+          "h5Url": "string",
+          "teacherVo": {
+            "description": "",
+            "id": 0,
+            "position": "stringstringstringstringstringstringstringstringstringstringstringstring",
+            "teacherHeadPicUrl": "string",
+            "teacherName": "string"
+          }
+        },
+        {
+            "brief": "string",
+            "courseId": 0,
+            "courseImgUrl": "https://www.lgstatic.com/i/image2/M01/51/7E/CgoB5l0S2NOAQGP5AAGDoZCWy_A423.JPG",
+            "courseName": "string",
+            "courseType": "string",
+            "courseUrl": "string",
+            "decorateId": 0,
+            "h5Url": "string",
+            "teacherVo": {
+              "description": "string",
+              "id": 0,
+              "position": "string",
+              "teacherHeadPicUrl": "string",
+              "teacherName": "string"
+            }
+          },
+          {
+            "brief": "string",
+            "courseId": 0,
+            "courseImgUrl": "https://www.lgstatic.com/i/image2/M01/51/7E/CgoB5l0S2NOAQGP5AAGDoZCWy_A423.JPG",
+            "courseName": "string",
+            "courseType": "string",
+            "courseUrl": "string",
+            "decorateId": 0,
+            "h5Url": "string",
+            "teacherVo": {
+              "description": "string",
+              "id": 0,
+              "position": "string",
+              "teacherHeadPicUrl": "string",
+              "teacherName": "string"
+            }
+          },{
+            "brief": "string",
+            "courseId": 0,
+            "courseImgUrl": "string",
+            "courseName": "string",
+            "courseType": "string",
+            "courseUrl": "string",
+            "decorateId": 0,
+            "h5Url": "string",
+            "teacherVo": {
+              "description": "string",
+              "id": 0,
+              "position": "string",
+              "teacherHeadPicUrl": "string",
+              "teacherName": "string"
+            }
+          },{
+            "brief": "string",
+            "courseId": 0,
+            "courseImgUrl": "string",
+            "courseName": "string",
+            "courseType": "string",
+            "courseUrl": "string",
+            "decorateId": 0,
+            "h5Url": "string",
+            "teacherVo": {
+              "description": "string",
+              "id": 0,
+              "position": "string",
+              "teacherHeadPicUrl": "string",
+              "teacherName": "string"
+            }
+          },{
+            "brief": "string",
+            "courseId": 0,
+            "courseImgUrl": "string",
+            "courseName": "string",
+            "courseType": "string",
+            "courseUrl": "string",
+            "decorateId": 0,
+            "h5Url": "string",
+            "teacherVo": {
+              "description": "string",
+              "id": 0,
+              "position": "string",
+              "teacherHeadPicUrl": "string",
+              "teacherName": "string"
+            }
+          },{
+            "brief": "string",
+            "courseId": 0,
+            "courseImgUrl": "string",
+            "courseName": "string",
+            "courseType": "string",
+            "courseUrl": "string",
+            "decorateId": 0,
+            "h5Url": "string",
+            "teacherVo": {
+              "description": "string",
+              "id": 0,
+              "position": "string",
+              "teacherHeadPicUrl": "string",
+              "teacherName": "string"
+            }
+          },{
+            "brief": "string",
+            "courseId": 0,
+            "courseImgUrl": "string",
+            "courseName": "string",
+            "courseType": "string",
+            "courseUrl": "string",
+            "decorateId": 0,
+            "h5Url": "string",
+            "teacherVo": {
+              "description": "string",
+              "id": 0,
+              "position": "string",
+              "teacherHeadPicUrl": "string",
+              "teacherName": "string"
+            }
+          },{
+            "brief": "string",
+            "courseId": 0,
+            "courseImgUrl": "string",
+            "courseName": "string",
+            "courseType": "string",
+            "courseUrl": "string",
+            "decorateId": 0,
+            "h5Url": "string",
+            "teacherVo": {
+              "description": "string",
+              "id": 0,
+              "position": "string",
+              "teacherHeadPicUrl": "string",
+              "teacherName": "string"
+            }
+          },{
+            "brief": "string",
+            "courseId": 0,
+            "courseImgUrl": "string",
+            "courseName": "string",
+            "courseType": "string",
+            "courseUrl": "string",
+            "decorateId": 0,
+            "h5Url": "string",
+            "teacherVo": {
+              "description": "string",
+              "id": 0,
+              "position": "string",
+              "teacherHeadPicUrl": "string",
+              "teacherName": "string"
+            }
+          }
+      ]
+    },
+    "message": "string",
+    "state": 1,
+    "uiMessage": "string"
+  }

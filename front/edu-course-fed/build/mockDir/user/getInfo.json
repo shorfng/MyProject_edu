@@ -1,0 +1,10 @@
+{
+  "state": 1,
+  "message": "success",
+  "content": {
+    "isUpdatedPassword": true,
+    "userName": "15321919571",
+    "portrait": null
+  },
+  "success": true
+}

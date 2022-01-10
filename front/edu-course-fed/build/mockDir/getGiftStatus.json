@@ -1,0 +1,16 @@
+{
+    "content": {
+      "popCopywriter": {
+        "buttonText": "打开礼包",
+        "subTitle": "快看看你的手气吧",
+        "title": "你被1个幸运礼包砸中了",
+        "href": "",
+        "topTitle": "哎呀~"
+      },
+      "userId": 0
+    },
+    "couponId": 1234,
+    "message": "符合领券条件，弹出领券窗口",
+    "state": 2,
+    "uiMessage": "string"
+  }

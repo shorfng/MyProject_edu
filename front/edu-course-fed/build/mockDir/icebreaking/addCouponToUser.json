@@ -1,0 +1,9 @@
+{
+    "state": 1,
+    "message": "有券,且符合使用条件",
+    "content": {
+      "data": {
+        "couponId": 13
+      }
+    }
+  }

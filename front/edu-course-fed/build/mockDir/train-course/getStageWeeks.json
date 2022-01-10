@@ -1,0 +1,40 @@
+{
+    "state": 1,
+    "message": "操作成功",
+    "content": [
+        {
+            "weekId": 15,
+            "weekTag": "第一周",
+            "weekName": "学习Js学习Js学习Js",
+            "weekDesc": "学习Js学习Js学习Js学习Js学习Js学习Js学习Js",
+            "homeworkSubmit": "SUBMIT",
+            "studyPercent": 0,
+            "status": "CLOSE",
+            "classworkLessonId": null,
+            "classworkDayId": null
+        },
+        {
+            "weekId": 16,
+            "weekTag": "第二周",
+            "weekName": "学习Css学习Css学习Css学习Css学习Css学习Css学习Css学习Css",
+            "weekDesc": "学习Css学习Css学习Css学习Css学习Css学习Css学习Css学习Css学习Css学习Css学习Css学习Css学习Css学习Css学习Css",
+            "homeworkSubmit": "NOT_SUBMIT",
+            "studyPercent": 0,
+            "status": "CLOSE",
+            "classworkLessonId": null,
+            "classworkDayId": null
+        },
+        {
+            "weekId": 17,
+            "weekTag": "第三周",
+            "weekName": "学习HTML5",
+            "weekDesc": "学习HTML5学习HTML5学习HTML5学习HTML5学习HTML5学习HTML5",
+            "homeworkSubmit": "NOT_SUBMIT",
+            "studyPercent": 0,
+            "status": "CLOSE",
+            "classworkLessonId": null,
+            "classworkDayId": null
+        }
+    ],
+    "uiMessage": null
+}

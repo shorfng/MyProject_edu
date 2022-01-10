@@ -1,0 +1,36 @@
+{
+  "state": 1,
+  "message": "操作成功",
+  "content": {
+    "commentTags": ["asdasdasdasd", "asdasdasdasd", "asdasdasdasd", "asdasdasdasd", "asdasdasdasd", "asdasdasdasd"],
+    "commentVos": [{
+      "userName": "Amy",
+      "evaluation": "干货很多，很有帮助",
+      "userHeadUrl": "https://s0.lgstatic.com/i/image3/M01/71/D3/Cgq2xl5nM3KAHERuAAAhynsVrWo20.jpeg"
+    }, {
+      "userName": "张伟",
+      "evaluation": "听了课程内容，感觉工作更有逻辑性了",
+      "userHeadUrl": "https://s0.lgstatic.com/i/image3/M01/71/D3/Cgq2xl5nM6uAQ_8dAACNSsSOM5k30.jpeg"
+    }
+    , {
+      "userName": "张伟",
+      "evaluation": "听了课程内容，感觉工作更有逻辑性了",
+      "userHeadUrl": "https://s0.lgstatic.com/i/image3/M01/71/D3/Cgq2xl5nM6uAQ_8dAACNSsSOM5k30.jpeg"
+    }
+    , {
+      "userName": "张伟",
+      "evaluation": "听了课程内容，感觉工作更有逻辑性了",
+      "userHeadUrl": "https://s0.lgstatic.com/i/image3/M01/71/D3/Cgq2xl5nM6uAQ_8dAACNSsSOM5k30.jpeg"
+    }
+    , {
+      "userName": "张伟",
+      "evaluation": "听了课程内容，感觉工作更有逻辑性了",
+      "userHeadUrl": "https://s0.lgstatic.com/i/image3/M01/71/D3/Cgq2xl5nM6uAQ_8dAACNSsSOM5k30.jpeg"
+    }, {
+      "userName": "Luna1993",
+      "evaluation": "老师讲得不错，花得很值的一笔钱，希望学到的都能用上",
+      "userHeadUrl": "https://s0.lgstatic.com/i/image3/M01/71/D4/Cgq2xl5nNBSAVUv-AAB_9YacIyU22.jpeg"
+    }]
+  },
+  "uiMessage": null
+}

@@ -1,0 +1,59 @@
+{
+  "content": {
+    "beginPageIndex": 0,
+    "currentPage": 0,
+    "endPageIndex": 0,
+    "lastPage": 0,
+    "nextPage": 0,
+    "pageCount": 0,
+    "pageSize": 0,
+    "recordCount": 1000,
+    "recordList": [
+      {
+        "accountTypeStr": "移除",
+        "companyId": 0,
+        "currentCourseName": null,
+        "currentLearingRate": 50,
+        "email": "aaa@lagou.com",
+        "id": 0,
+        "lagouUserId": 0,
+        "phone": "14456987523",
+        "positionName": "高级java开发工程师",
+        "sumClassHour": 235,
+        "sumDuration": 1,
+        "userName": "原倩"
+      },
+      {
+        "accountTypeStr": "移除",
+        "companyId": 0,
+        "currentCourseName": "腾讯产品启示录",
+        "currentLearingRate": 50,
+        "email": "aaa@lagou.com",
+        "id": 1,
+        "lagouUserId": 0,
+        "phone": "14456987523",
+        "positionName": "高级java开发工程师",
+        "sumClassHour": 235,
+        "sumDuration": 10000,
+        "userName": "原倩"
+      },
+      {
+        "accountTypeStr": "移除",
+        "companyId": 0,
+        "currentCourseName": "腾讯产品启示录",
+        "currentLearingRate": 50,
+        "email": "aaa@lagou.com",
+        "id": 2,
+        "lagouUserId": 0,
+        "phone": "14456987523",
+        "positionName": "高级java开发工程师",
+        "sumClassHour": 235,
+        "sumDuration": 10000,
+        "userName": "原倩"
+      }
+    ]
+  },
+  "message": "string",
+  "state": 1,
+  "uiMessage": "string"
+}

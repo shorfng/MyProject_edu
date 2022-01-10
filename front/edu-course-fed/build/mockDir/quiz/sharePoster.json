@@ -1,0 +1,13 @@
+{
+    "content": {
+      "brief": "答对40题你就是 BAT 的 <br/> Java 大神",
+      "portrait": "https://www.lgstatic.com/i/image2/M01/A4/04/CgoB5lvamNaAdiXFAAAeEzeZ4ak138.jpg",
+      "ranking": 99,
+      "rightNum": 20,
+      "sharePosterUrl": "http://www.baidu.com",
+      "userName": "维吾尔"
+    },
+    "message": "string",
+    "state": 1,
+    "uiMessage": "string"
+}
